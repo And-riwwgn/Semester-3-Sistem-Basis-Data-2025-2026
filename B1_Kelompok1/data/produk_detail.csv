@@ -1,0 +1,1597 @@
+detail_id,Product ID,terms,section,season,material
+BAWPO4,185102,jackets,MAN,Winter,Polyester
+TUACO5,188771,jackets,MAN,Autumn,Cotton
+SLAPO6,180176,jackets,WOMAN,Autumn,Polyester
+STSPO7,112917,jackets,MAN,Spring,Polyester
+DOWWO8,192936,jackets,WOMAN,Winter,Wool Blend
+COACO9,117590,jackets,WOMAN,Autumn,Cotton
+FAWAC10,189118,jackets,MAN,Winter,Acrylic
+SUSCO11,182157,jackets,WOMAN,Summer,Cotton
+10WWO12,141861,jackets,WOMAN,Winter,Wool
+10AWO13,137121,jackets,MAN,Autumn,Wool Blend
+HEWWO14,113143,jackets,WOMAN,Winter,Wool
+OVAPO15,140028,jackets,WOMAN,Autumn,Polyester
+LEACO16,134693,jackets,MAN,Autumn,Cotton
+CRAVI17,151396,jackets,WOMAN,Autumn,Viscose
+FASPO18,132889,jackets,WOMAN,Spring,Polyester
+FASWO19,152174,jackets,WOMAN,Spring,Wool Blend
+FAACO20,129906,jackets,WOMAN,Autumn,Cotton
+DEACO21,195879,jackets,WOMAN,Autumn,Cotton
+BOWPO22,155050,jackets,MAN,Winter,Polyester
+SUSLI23,194410,jackets,WOMAN,Spring,Linen
+JASDE24,141904,jackets,WOMAN,Spring,Denim
+PAADE25,124981,jackets,WOMAN,Autumn,Denim
+LESWO26,161909,jackets,WOMAN,Spring,Wool Blend
+LIAWO27,129152,jackets,MAN,Autumn,Wool Blend
+SUAPO28,183243,jackets,WOMAN,Autumn,Polyester
+FAAPO29,198248,jackets,MAN,Autumn,Polyester
+PAACO30,191230,jackets,WOMAN,Autumn,Cotton
+STSCO31,187234,jackets,WOMAN,Spring,Cotton
+RIAWO32,148888,jackets,WOMAN,Autumn,Wool Blend
+FAAVI33,110805,jackets,MAN,Autumn,Viscose
+COACO34,179801,jackets,MAN,Autumn,Cotton
+PAWVI35,134927,jackets,WOMAN,Winter,Viscose
+CRAPO36,123150,jackets,MAN,Autumn,Polyester
+FAWWO37,159145,jackets,WOMAN,Winter,Wool
+FAAVI38,172364,jackets,WOMAN,Autumn,Viscose
+BOSPO39,178281,jackets,WOMAN,Spring,Polyester
+FAAVI40,194339,jackets,WOMAN,Autumn,Viscose
+FASVI41,174412,jackets,WOMAN,Spring,Viscose
+SUSPO42,114877,jackets,WOMAN,Spring,Polyester
+COWVI43,140727,jackets,WOMAN,Winter,Viscose
+TESCO44,133109,jackets,WOMAN,Spring,Cotton
+CRSCO45,127296,jackets,MAN,Spring,Cotton
+POAWO46,133757,jackets,WOMAN,Autumn,Wool
+TESWO47,111760,jackets,MAN,Spring,Wool Blend
+FASPO48,198375,jackets,WOMAN,Spring,Polyester
+FAAPO49,168837,jackets,MAN,Autumn,Polyester
+RIACO50,138505,jackets,WOMAN,Autumn,Cotton
+TEWPO51,116228,jackets,WOMAN,Winter,Polyester
+FAAVI52,167592,jackets,WOMAN,Autumn,Viscose
+PUAWO53,133100,jackets,MAN,Autumn,Wool
+BOAPO54,119955,jackets,MAN,Autumn,Polyester
+TESCO55,189349,jackets,WOMAN,Spring,Cotton
+STSCO56,127478,jackets,WOMAN,Spring,Cotton
+HOWWO57,180661,jackets,MAN,Winter,Wool Blend
+LIAAC58,186681,jackets,WOMAN,Autumn,Acrylic
+COAPO59,133183,jackets,WOMAN,Autumn,Polyester
+POAVI60,173508,jackets,MAN,Autumn,Viscose
+OVACO61,187930,jackets,WOMAN,Autumn,Cotton
+EMAVI62,124088,jackets,WOMAN,Autumn,Viscose
+ACSDE63,190238,jackets,MAN,Spring,Denim
+VIACO64,151925,jackets,WOMAN,Autumn,Cotton
+TESDE65,163234,jackets,WOMAN,Spring,Denim
+WOWWO66,135610,jackets,MAN,Winter,Wool Blend
+COSCO67,117065,jackets,WOMAN,Spring,Cotton
+FLACO68,149315,jackets,WOMAN,Autumn,Cotton
+ZIAVI69,149510,jackets,WOMAN,Autumn,Viscose
+COAPO70,137990,jackets,MAN,Autumn,Polyester
+WOWWO71,154016,jackets,WOMAN,Winter,Wool
+COSVI72,117751,jackets,MAN,Spring,Viscose
+CRSCO73,182362,jackets,WOMAN,Spring,Cotton
+COSCO74,117725,jackets,WOMAN,Spring,Cotton
+UTACO75,145289,jackets,WOMAN,Autumn,Cotton
+LISWO76,173576,jackets,WOMAN,Spring,Wool Blend
+WOWWO77,175059,jackets,WOMAN,Winter,Wool
+TEAPO78,199368,jackets,MAN,Autumn,Polyester
+MIWPO79,162883,jackets,MAN,Winter,Polyester
+COSCO80,135490,jackets,WOMAN,Spring,Cotton
+PAWPO81,125408,jackets,WOMAN,Winter,Polyester
+TEAWO82,134763,jackets,WOMAN,Autumn,Wool Blend
+POACO83,143231,jackets,WOMAN,Autumn,Cotton
+BOSDE84,125409,jackets,WOMAN,Spring,Denim
+FAACO85,183074,jackets,WOMAN,Autumn,Cotton
+EMACO86,147947,jackets,MAN,Autumn,Cotton
+POSLI87,174171,jackets,WOMAN,Summer,Linen
+BOWWO88,183064,jackets,MAN,Winter,Wool
+COAAC89,177131,jackets,MAN,Autumn,Acrylic
+LOWWO90,128179,jackets,WOMAN,Winter,Wool Blend
+WOAWO91,152723,jackets,WOMAN,Autumn,Wool Blend
+HOAAC92,123824,jackets,MAN,Autumn,Acrylic
+HOAPO93,166345,jackets,WOMAN,Autumn,Polyester
+HOAVI94,199279,jackets,WOMAN,Autumn,Viscose
+BOWWO95,167981,jackets,WOMAN,Winter,Wool Blend
+HOAWO96,146839,jackets,WOMAN,Autumn,Wool Blend
+HOAVI97,187180,jackets,WOMAN,Autumn,Viscose
+WASPO98,167640,jackets,WOMAN,Spring,Polyester
+WAACO99,165158,jackets,MAN,Autumn,Cotton
+10AWO100,111521,jackets,WOMAN,Autumn,Wool Blend
+PAWCO101,120228,jackets,WOMAN,Winter,Cotton
+POAPO102,133078,jackets,WOMAN,Autumn,Polyester
+SLAPO103,137598,jackets,MAN,Autumn,Polyester
+MIWVI104,138779,jackets,WOMAN,Winter,Viscose
+HOACO105,198329,jackets,WOMAN,Autumn,Cotton
+WAAVI106,110295,jackets,MAN,Autumn,Viscose
+WOAWO107,196427,jackets,WOMAN,Autumn,Wool Blend
+PRSLI108,110075,jackets,WOMAN,Spring,Linen
+STWWO109,132322,jackets,MAN,Winter,Wool
+COSCO110,199631,jackets,WOMAN,Summer,Cotton
+REACO111,182306,jackets,WOMAN,Autumn,Cotton
+PLSLI112,194915,jackets,WOMAN,Summer,Linen
+POSLI113,131298,jackets,MAN,Summer,Linen
+10SLI114,168571,jackets,WOMAN,Summer,Linen
+PLWCO115,154224,jackets,WOMAN,Winter,Cotton
+POSLI116,171061,jackets,WOMAN,Spring,Linen Blend
+FAAPO117,119049,jackets,MAN,Autumn,Polyester
+PLAVI118,158781,jackets,MAN,Autumn,Viscose
+TEWPO119,151438,jackets,MAN,Winter,Polyester
+POAWO120,152871,jackets,WOMAN,Autumn,Wool Blend
+OVACO121,126806,jackets,WOMAN,Autumn,Cotton
+PLACO122,134104,jackets,WOMAN,Autumn,Cotton
+POAVI123,120266,jackets,WOMAN,Autumn,Viscose
+ZIWWO124,173550,jackets,MAN,Winter,Wool Blend
+GESLI125,175927,jackets,WOMAN,Summer,Linen
+PAAPO126,154278,jackets,WOMAN,Autumn,Polyester
+PAAPO127,183537,jackets,WOMAN,Autumn,Polyester
+PLSCO128,150424,jackets,WOMAN,Summer,Cotton
+OVSLI129,183825,jackets,WOMAN,Spring,Linen
+QUWPO130,144012,jackets,MAN,Winter,Polyester
+TEWVI131,147051,jackets,WOMAN,Winter,Viscose
+PLSCO132,185800,jackets,MAN,Summer,Cotton
+SUSCO133,197524,shoes,WOMAN,Spring,Cotton
+ZISCO134,148823,shoes,WOMAN,Spring,Cotton
+SUSCO135,114550,shoes,MAN,Summer,Cotton
+MUWPO136,125398,shoes,WOMAN,Winter,Polyester
+REAPO137,123985,shoes,WOMAN,Autumn,Polyester
+SUWPO138,186638,shoes,WOMAN,Winter,Polyester
+SUSPO139,167281,shoes,MAN,Summer,Polyester
+MUAPO140,118578,shoes,WOMAN,Autumn,Polyester
+TOWCO141,174041,shoes,MAN,Winter,Cotton
+RESVI142,127644,shoes,MAN,Summer,Viscose
+RESCO143,132007,shoes,WOMAN,Summer,Cotton
+MUAVI144,147998,shoes,MAN,Autumn,Viscose
+TASVI145,176666,shoes,WOMAN,Spring,Viscose
+MOSCO146,193686,shoes,WOMAN,Summer,Cotton
+STSCO147,163610,shoes,WOMAN,Summer,Cotton
+SUSCO148,170364,shoes,WOMAN,Spring,Cotton
+HISVI149,167599,shoes,WOMAN,Spring,Viscose
+SUSCO150,166421,shoes,WOMAN,Summer,Cotton
+FASVI151,129247,shoes,WOMAN,Summer,Viscose
+CHSPO152,127314,shoes,WOMAN,Summer,Polyester
+DOSVI153,111979,shoes,MAN,Summer,Viscose
+CHSCO154,120354,shoes,MAN,Summer,Cotton
+SUAVI155,144848,shoes,WOMAN,Autumn,Viscose
+ADSPO156,111957,shoes,WOMAN,Summer,Polyester
+MUACO157,160763,shoes,MAN,Autumn,Cotton
+CHSLI158,168270,shoes,MAN,Summer,Linen
+COAPO159,195082,shoes,MAN,Autumn,Polyester
+SUSCO160,110329,shoes,WOMAN,Spring,Cotton
+WOSVI161,147449,shoes,WOMAN,Summer,Viscose
+SUSVI162,193332,shoes,MAN,Summer,Viscose
+ASAWO163,146804,sweaters,WOMAN,Autumn,Wool Blend
+KNWWO164,188909,sweaters,MAN,Winter,Wool Blend
+HIWAC165,165910,sweaters,WOMAN,Winter,Acrylic
+STAWO166,136738,sweaters,WOMAN,Autumn,Wool
+CAWWO167,144497,sweaters,MAN,Winter,Wool Blend
+ASWWO168,135036,sweaters,WOMAN,Winter,Wool
+WOWWO169,166331,sweaters,WOMAN,Winter,Wool Blend
+ALWWO170,139789,sweaters,MAN,Winter,Wool
+MOAWO171,118569,sweaters,WOMAN,Autumn,Wool Blend
+CAWPO172,155848,sweaters,WOMAN,Winter,Polyester
+ALWWO173,152563,sweaters,MAN,Winter,Wool Blend
+OVWWO174,115153,sweaters,MAN,Winter,Wool Blend
+WOAWO175,125938,sweaters,WOMAN,Autumn,Wool
+SOWWO176,122809,sweaters,WOMAN,Winter,Wool
+FAAWO177,181502,sweaters,WOMAN,Autumn,Wool
+MEWWO178,182779,sweaters,WOMAN,Winter,Wool Blend
+KNWAC179,155674,sweaters,WOMAN,Winter,Acrylic
+JEAWO180,182866,sweaters,MAN,Autumn,Wool Blend
+KNWWO181,148230,sweaters,WOMAN,Winter,Wool Blend
+FIWWO182,126979,sweaters,MAN,Winter,Wool Blend
+KNAWO183,135521,sweaters,MAN,Autumn,Wool Blend
+GAWAC184,185809,sweaters,MAN,Winter,Acrylic
+KNAWO185,171520,sweaters,WOMAN,Autumn,Wool Blend
+BAWWO186,122926,sweaters,WOMAN,Winter,Wool
+COAPO187,150953,sweaters,WOMAN,Autumn,Polyester
+STAPO188,115873,sweaters,WOMAN,Autumn,Polyester
+BAAWO189,115581,sweaters,WOMAN,Autumn,Wool
+V-WWO190,183634,sweaters,MAN,Winter,Wool
+FOWWO191,122484,sweaters,WOMAN,Winter,Wool Blend
+BAAWO192,183574,sweaters,MAN,Autumn,Wool Blend
+COAWO193,185307,sweaters,WOMAN,Autumn,Wool
+FIWWO194,118719,sweaters,WOMAN,Winter,Wool
+KNWWO195,134788,sweaters,MAN,Winter,Wool Blend
+KNWAC196,140142,sweaters,WOMAN,Winter,Acrylic
+STAPO197,153997,jackets,WOMAN,Autumn,Polyester
+FLACO198,123230,jackets,WOMAN,Autumn,Cotton
+PLSCO199,154676,jackets,MAN,Spring,Cotton
+BAACO200,152985,jeans,WOMAN,Autumn,Cotton
+BAACO201,175584,jeans,WOMAN,Autumn,Cotton
+BAWCO202,147491,jeans,WOMAN,Winter,Cotton
+BAWDE203,198283,jeans,WOMAN,Winter,Denim
+FLACO204,141547,jeans,MAN,Autumn,Cotton
+PLACO205,156342,jeans,MAN,Autumn,Cotton
+DEACO206,186083,jeans,WOMAN,Autumn,Cotton
+RISCO207,171776,jeans,WOMAN,Spring,Cotton
+TEWWO208,134429,sweaters,MAN,Winter,Wool
+PUAAC209,172816,sweaters,MAN,Autumn,Acrylic
+BRAWO210,136272,sweaters,MAN,Autumn,Wool Blend
+COWAC211,193227,sweaters,WOMAN,Winter,Acrylic
+ABWWO212,165786,sweaters,MAN,Winter,Wool
+BASLI213,174708,t-shirts,WOMAN,Summer,Linen Blend
+CRSLI214,142257,t-shirts,WOMAN,Spring,Linen
+BASCO215,126146,t-shirts,WOMAN,Summer,Cotton
+HESLI216,129134,t-shirts,WOMAN,Summer,Linen
+TESLI217,129898,t-shirts,MAN,Spring,Linen
+PRSLI218,189692,t-shirts,MAN,Spring,Linen
+RISCO219,154846,t-shirts,MAN,Summer,Cotton
+OVSLI220,122307,t-shirts,WOMAN,Summer,Linen
+BASLI221,182099,t-shirts,WOMAN,Spring,Linen Blend
+STSCO222,159816,t-shirts,WOMAN,Spring,Cotton
+ABSCO223,165326,t-shirts,WOMAN,Spring,Cotton
+RASLI224,185154,t-shirts,MAN,Summer,Linen
+RISLI225,141330,t-shirts,MAN,Summer,Linen Blend
+SEAWO226,158958,t-shirts,MAN,Autumn,Wool
+VISCO227,155010,t-shirts,MAN,Summer,Cotton
+STSLI228,135857,t-shirts,MAN,Spring,Linen
+ABSLI229,147690,t-shirts,WOMAN,Summer,Linen
+STSLI230,130321,t-shirts,WOMAN,Summer,Linen
+HEACO231,196752,shoes,WOMAN,Autumn,Cotton
+OVWPO232,181011,t-shirts,MAN,Winter,Polyester
+LEAWO233,139967,sweaters,WOMAN,Autumn,Wool Blend
+CRAWO234,162699,sweaters,WOMAN,Autumn,Wool
+FASLI235,119044,t-shirts,WOMAN,Spring,Linen Blend
+FAAVI236,121348,t-shirts,MAN,Autumn,Viscose
+FAAPO237,163982,t-shirts,MAN,Autumn,Polyester
+DEWWO238,185774,t-shirts,WOMAN,Winter,Wool
+BOSVI239,144651,t-shirts,MAN,Spring,Viscose
+SUSCO240,195103,t-shirts,WOMAN,Spring,Cotton
+JAWCO241,123047,t-shirts,WOMAN,Winter,Cotton
+PAADE242,123077,t-shirts,WOMAN,Autumn,Denim
+LEACO243,171860,t-shirts,MAN,Autumn,Cotton
+LISPO244,149487,t-shirts,WOMAN,Spring,Polyester
+SUWPO245,168516,t-shirts,WOMAN,Winter,Polyester
+FASCO246,177771,t-shirts,WOMAN,Spring,Cotton
+PAAWO247,172015,t-shirts,WOMAN,Autumn,Wool Blend
+STSLI248,118985,jackets,WOMAN,Spring,Linen Blend
+RISLI249,112194,jackets,WOMAN,Spring,Linen
+FAAVI250,113435,jackets,MAN,Autumn,Viscose
+COSVI251,159182,jackets,MAN,Spring,Viscose
+PAACO252,199233,jackets,WOMAN,Autumn,Cotton
+CRWPO253,137044,jackets,WOMAN,Winter,Polyester
+FAAWO254,154736,jackets,WOMAN,Autumn,Wool Blend
+REACO255,141434,jackets,WOMAN,Autumn,Cotton
+QUSLI256,199632,jeans,MAN,Summer,Linen
+MUWWO257,199633,jackets,WOMAN,Winter,Wool Blend
+STAVI258,199634,sweaters,MAN,Autumn,Viscose
+BRAWO259,199635,jackets,MAN,Autumn,Wool Blend
+TESLI260,199636,jackets,WOMAN,Spring,Linen
+EMWWO261,199637,jeans,WOMAN,Winter,Wool
+SLSLI262,199638,t-shirts,WOMAN,Spring,Linen
+FAAVI263,199639,jackets,WOMAN,Autumn,Viscose
+MUAPO264,199640,shoes,WOMAN,Autumn,Polyester
+SAWWO265,199641,jackets,WOMAN,Winter,Wool
+OVSCO266,199642,jackets,MAN,Summer,Cotton
+CRWPO267,199643,sweaters,WOMAN,Winter,Polyester
+SLSLI268,199644,shoes,MAN,Spring,Linen
+STAWO269,199645,shoes,MAN,Autumn,Wool Blend
+STSLI270,199646,shoes,WOMAN,Spring,Linen
+MUSLI271,199647,jackets,WOMAN,Spring,Linen
+STSWO272,199648,jackets,MAN,Summer,Wool
+LISCO273,199649,shoes,WOMAN,Spring,Cotton
+STSLI274,199650,jackets,WOMAN,Spring,Linen
+SLWCO275,199651,jackets,WOMAN,Winter,Cotton
+STSPO276,199652,sweaters,MAN,Spring,Polyester
+PLWWO277,199653,jackets,MAN,Winter,Wool Blend
+PLAWO278,199654,sweaters,WOMAN,Autumn,Wool Blend
+WOAAC279,199655,sweaters,MAN,Autumn,Acrylic
+OVWWO280,199656,jackets,MAN,Winter,Wool
+RESLI281,199657,jackets,MAN,Spring,Linen
+CRWWO282,199658,t-shirts,WOMAN,Winter,Wool
+KNWWO283,199659,jackets,WOMAN,Winter,Wool Blend
+RESVI284,199660,t-shirts,WOMAN,Spring,Viscose
+DOAWO285,199661,jackets,WOMAN,Autumn,Wool Blend
+KNAPO286,199662,jeans,WOMAN,Autumn,Polyester
+SLACO287,199663,sweaters,WOMAN,Autumn,Cotton
+OVAPO288,199664,jackets,MAN,Autumn,Polyester
+BRAPO289,199665,t-shirts,WOMAN,Autumn,Polyester
+HIWWO290,199666,jackets,WOMAN,Winter,Wool Blend
+SAASA291,199667,jackets,WOMAN,Autumn,Satin
+BAWWO292,199668,shoes,WOMAN,Winter,Wool
+TEWWO293,199669,sweaters,WOMAN,Winter,Wool
+KNWWO294,199670,jackets,MAN,Winter,Wool Blend
+RISCO295,199671,sweaters,MAN,Summer,Cotton
+STSLI296,199672,jackets,MAN,Summer,Linen
+CRSLI297,199673,jackets,MAN,Spring,Linen Blend
+RISLI298,199674,t-shirts,MAN,Spring,Linen Blend
+CRSWO299,199675,jeans,WOMAN,Summer,Wool Blend
+OVSCO300,199676,jackets,WOMAN,Spring,Cotton
+POAPO301,199677,t-shirts,WOMAN,Autumn,Polyester
+TASLI302,199678,jackets,WOMAN,Spring,Linen
+EMSCO303,199679,jackets,WOMAN,Summer,Cotton
+BASCO304,199680,shoes,WOMAN,Summer,Cotton
+RIAPO305,199681,jackets,WOMAN,Autumn,Polyester
+RESWO306,199682,t-shirts,WOMAN,Spring,Wool Blend
+DOWPO307,199683,t-shirts,WOMAN,Winter,Polyester
+QUSPO308,199684,jackets,WOMAN,Summer,Polyester
+RISCO309,199685,t-shirts,MAN,Spring,Cotton
+BAAWO310,199686,sweaters,MAN,Autumn,Wool
+PLADE311,199687,jackets,WOMAN,Autumn,Denim
+OVAVI312,199688,t-shirts,WOMAN,Autumn,Viscose
+HISWO313,199689,t-shirts,WOMAN,Summer,Wool Blend
+STACO314,199690,sweaters,MAN,Autumn,Cotton
+KNAWO315,199691,jackets,MAN,Autumn,Wool Blend
+CRSPO316,199692,jackets,MAN,Spring,Polyester
+UTSLI317,199693,t-shirts,WOMAN,Spring,Linen
+CRSLI318,199694,jackets,WOMAN,Summer,Linen Blend
+STAWO319,199695,jackets,MAN,Autumn,Wool
+REAWO320,199696,jeans,WOMAN,Autumn,Wool Blend
+LOSLI321,199697,jackets,WOMAN,Summer,Linen Blend
+HIAWO322,199698,shoes,MAN,Autumn,Wool Blend
+BOWWO323,199699,t-shirts,MAN,Winter,Wool
+LISLI324,199700,jackets,WOMAN,Summer,Linen Blend
+PLAWO325,199701,shoes,MAN,Autumn,Wool Blend
+CRWWO326,199702,sweaters,MAN,Winter,Wool Blend
+SAASA327,199703,sweaters,MAN,Autumn,Satin
+OVAVI328,199704,jackets,MAN,Autumn,Viscose
+TEWWO329,199705,t-shirts,WOMAN,Winter,Wool
+STSCO330,199706,t-shirts,WOMAN,Spring,Cotton
+SUAPO331,199707,t-shirts,MAN,Autumn,Polyester
+HIAWO332,199708,jackets,WOMAN,Autumn,Wool Blend
+REWWO333,199709,sweaters,WOMAN,Winter,Wool
+STSCO334,199710,sweaters,WOMAN,Summer,Cotton
+PLSCO335,199711,jackets,WOMAN,Spring,Cotton
+GASWO336,199712,jackets,WOMAN,Summer,Wool
+ALWWO337,199713,sweaters,MAN,Winter,Wool Blend
+QUSCO338,199714,t-shirts,WOMAN,Summer,Cotton
+EMWWO339,199715,jackets,WOMAN,Winter,Wool
+UTSLI340,199716,t-shirts,WOMAN,Spring,Linen
+CRSCO341,199717,jackets,WOMAN,Spring,Cotton
+KNAWO342,199718,jackets,WOMAN,Autumn,Wool Blend
+PLWWO343,199719,sweaters,WOMAN,Winter,Wool
+TEWPO344,199720,jackets,WOMAN,Winter,Polyester
+CRSWO345,199721,sweaters,WOMAN,Summer,Wool Blend
+REWCO346,199722,sweaters,WOMAN,Winter,Cotton
+KNAAC347,199723,jackets,WOMAN,Autumn,Acrylic
+CRWWO348,199724,jeans,WOMAN,Winter,Wool Blend
+RIACO349,199725,jackets,WOMAN,Autumn,Cotton
+CRSCO350,199726,sweaters,MAN,Summer,Cotton
+ZIAWO351,199727,jackets,WOMAN,Autumn,Wool
+PLWAC352,199728,t-shirts,MAN,Winter,Acrylic
+LISLI353,199729,t-shirts,WOMAN,Summer,Linen
+SLSCO354,199730,jackets,WOMAN,Spring,Cotton
+LISCO355,199731,jackets,WOMAN,Spring,Cotton
+RESCO356,199732,t-shirts,WOMAN,Spring,Cotton
+UTAVI357,199733,jackets,WOMAN,Autumn,Viscose
+PLAWO358,199734,jackets,WOMAN,Autumn,Wool Blend
+STAVI359,199735,shoes,MAN,Autumn,Viscose
+STWWO360,199736,shoes,WOMAN,Winter,Wool Blend
+COSLI361,199737,shoes,MAN,Spring,Linen
+TESCO362,199738,jackets,WOMAN,Spring,Cotton
+UTAWO363,199739,sweaters,WOMAN,Autumn,Wool Blend
+TEAWO364,199740,jackets,WOMAN,Autumn,Wool
+TESLI365,199741,sweaters,MAN,Spring,Linen
+KNSCO366,199742,t-shirts,WOMAN,Spring,Cotton
+REAVI367,199743,jackets,WOMAN,Autumn,Viscose
+OVWWO368,199744,jackets,MAN,Winter,Wool Blend
+EMAVI369,199745,shoes,WOMAN,Autumn,Viscose
+STSWO370,199746,sweaters,WOMAN,Summer,Wool
+TEAVI371,199747,jeans,WOMAN,Autumn,Viscose
+RESLI372,199748,t-shirts,MAN,Summer,Linen
+TESCO373,199749,jackets,WOMAN,Summer,Cotton
+UTSVI374,199750,sweaters,MAN,Spring,Viscose
+RISLI375,199751,sweaters,WOMAN,Spring,Linen
+QUAAC376,199752,t-shirts,WOMAN,Autumn,Acrylic
+BASLI377,199753,jackets,WOMAN,Spring,Linen Blend
+KNAWO378,199754,jackets,WOMAN,Autumn,Wool Blend
+BEAWO379,199755,shoes,WOMAN,Autumn,Wool
+TESLI380,199756,jackets,WOMAN,Summer,Linen
+BAWPO381,199757,sweaters,MAN,Winter,Polyester
+REAPO382,199758,jackets,WOMAN,Autumn,Polyester
+SLAWO383,199759,jackets,WOMAN,Autumn,Wool
+FAAPO384,199760,jeans,WOMAN,Autumn,Polyester
+TESWO385,199761,t-shirts,WOMAN,Spring,Wool
+TAWWO386,199762,shoes,MAN,Winter,Wool Blend
+BASLI387,199763,shoes,MAN,Summer,Linen
+TEADE388,199764,shoes,WOMAN,Autumn,Denim
+SLSCO389,199765,jackets,WOMAN,Spring,Cotton
+STAWO390,199766,jackets,WOMAN,Autumn,Wool Blend
+HIACO391,199767,jackets,MAN,Autumn,Cotton
+DOWDE392,199768,jackets,WOMAN,Winter,Denim
+RIAWO393,199769,jackets,MAN,Autumn,Wool
+PLSCO394,199770,jackets,MAN,Spring,Cotton
+POSWO395,199771,jackets,WOMAN,Summer,Wool Blend
+LISCO396,199772,jackets,WOMAN,Spring,Cotton
+QUWWO397,199773,jackets,WOMAN,Winter,Wool Blend
+CRSCO398,199774,jackets,MAN,Summer,Cotton
+SAWWO399,199775,jackets,WOMAN,Winter,Wool
+POAWO400,199776,sweaters,MAN,Autumn,Wool
+TASCO401,199777,jackets,WOMAN,Summer,Cotton
+HIAAC402,199778,jackets,WOMAN,Autumn,Acrylic
+SAWPO403,199779,sweaters,WOMAN,Winter,Polyester
+RISPO404,199780,sweaters,WOMAN,Spring,Polyester
+SLWWO405,199781,jackets,WOMAN,Winter,Wool Blend
+STSCO406,199782,sweaters,MAN,Spring,Cotton
+SLWWO407,199783,shoes,WOMAN,Winter,Wool Blend
+QUSLI408,199784,jackets,MAN,Summer,Linen Blend
+OVWDE409,199785,shoes,WOMAN,Winter,Denim
+BAAWO410,199786,sweaters,WOMAN,Autumn,Wool
+TAACO411,199787,jackets,WOMAN,Autumn,Cotton
+KNWWO412,199788,sweaters,MAN,Winter,Wool
+OVWWO413,199789,jackets,MAN,Winter,Wool
+LISLI414,199790,jackets,WOMAN,Spring,Linen
+KNAWO415,199791,jackets,WOMAN,Autumn,Wool
+HIAWO416,199792,jackets,WOMAN,Autumn,Wool Blend
+RIADE417,199793,jackets,MAN,Autumn,Denim
+TAAWO418,199794,sweaters,MAN,Autumn,Wool Blend
+QUWCO419,199795,jackets,MAN,Winter,Cotton
+KNAWO420,199796,jackets,WOMAN,Autumn,Wool Blend
+STWWO421,199797,jackets,WOMAN,Winter,Wool
+V-WWO422,199798,jackets,WOMAN,Winter,Wool Blend
+BAADE423,199799,jackets,MAN,Autumn,Denim
+ADAVI424,199800,t-shirts,WOMAN,Autumn,Viscose
+TEWWO425,199801,t-shirts,WOMAN,Winter,Wool
+SLSVI426,199802,jackets,WOMAN,Spring,Viscose
+COSPO427,199803,jackets,WOMAN,Spring,Polyester
+STWWO428,199804,jackets,WOMAN,Winter,Wool Blend
+POSDE429,199805,shoes,WOMAN,Spring,Denim
+QUWWO430,199806,jackets,WOMAN,Winter,Wool Blend
+REAVI431,199807,jackets,MAN,Autumn,Viscose
+PLWWO432,199808,sweaters,WOMAN,Winter,Wool Blend
+LISCO433,199809,jackets,MAN,Spring,Cotton
+UTACO434,199810,jackets,WOMAN,Autumn,Cotton
+CRAWO435,199811,jackets,WOMAN,Autumn,Wool Blend
+SAAPO436,199812,jackets,MAN,Autumn,Polyester
+STSPO437,199813,sweaters,WOMAN,Spring,Polyester
+RIAVI438,199814,shoes,MAN,Autumn,Viscose
+TAWWO439,199815,jackets,MAN,Winter,Wool Blend
+SASWO440,199816,sweaters,MAN,Summer,Wool Blend
+PLAWO441,199817,jackets,WOMAN,Autumn,Wool Blend
+CRAVI442,199818,sweaters,WOMAN,Autumn,Viscose
+SAWSA443,199819,jackets,WOMAN,Winter,Satin
+RESLI444,199820,jackets,WOMAN,Summer,Linen
+SLAPO445,199821,t-shirts,WOMAN,Autumn,Polyester
+LISLI446,199822,t-shirts,MAN,Spring,Linen
+QUAVI447,199823,sweaters,WOMAN,Autumn,Viscose
+READE448,199824,jeans,WOMAN,Autumn,Denim
+DOWWO449,199825,jackets,MAN,Winter,Wool
+STSPO450,199826,jackets,MAN,Spring,Polyester
+HIWWO451,199827,jackets,MAN,Winter,Wool Blend
+TASCO452,199828,sweaters,MAN,Summer,Cotton
+EMAPO453,199829,sweaters,MAN,Autumn,Polyester
+QUACO454,199830,jackets,MAN,Autumn,Cotton
+BEAPO455,199831,jackets,WOMAN,Autumn,Polyester
+KNAWO456,199832,jackets,MAN,Autumn,Wool
+KNAWO457,199833,t-shirts,MAN,Autumn,Wool Blend
+STWWO458,199834,jackets,WOMAN,Winter,Wool
+TAAWO459,199835,jackets,WOMAN,Autumn,Wool Blend
+DOAAC460,199836,t-shirts,MAN,Autumn,Acrylic
+SLSLI461,199837,jackets,WOMAN,Summer,Linen
+EMSCO462,199838,jackets,MAN,Summer,Cotton
+OVSLI463,199839,jackets,WOMAN,Summer,Linen
+KNWWO464,199840,jackets,WOMAN,Winter,Wool
+DOWWO465,199841,shoes,MAN,Winter,Wool
+WOAWO466,199842,sweaters,WOMAN,Autumn,Wool Blend
+READE467,199843,shoes,WOMAN,Autumn,Denim
+REAWO468,199844,jackets,WOMAN,Autumn,Wool Blend
+SLSCO469,199845,jackets,WOMAN,Spring,Cotton
+OVSLI470,199846,shoes,WOMAN,Spring,Linen
+WAACO471,199847,jackets,MAN,Autumn,Cotton
+LISLI472,199848,t-shirts,MAN,Spring,Linen Blend
+TEAPO473,199849,jeans,WOMAN,Autumn,Polyester
+PLSCO474,199850,sweaters,WOMAN,Spring,Cotton
+UTSCO475,199851,jackets,WOMAN,Spring,Cotton
+HISLI476,199852,t-shirts,MAN,Summer,Linen
+RESLI477,199853,sweaters,WOMAN,Spring,Linen Blend
+EMWAC478,199854,shoes,WOMAN,Winter,Acrylic
+STSLI479,199855,jackets,MAN,Summer,Linen
+OVWWO480,199856,t-shirts,WOMAN,Winter,Wool Blend
+DOSCO481,199857,jackets,MAN,Spring,Cotton
+OVACO482,199858,sweaters,WOMAN,Autumn,Cotton
+QUSCO483,199859,shoes,WOMAN,Spring,Cotton
+PLADE484,199860,t-shirts,WOMAN,Autumn,Denim
+PLAWO485,199861,jackets,MAN,Autumn,Wool Blend
+RESCO486,199862,sweaters,WOMAN,Summer,Cotton
+LISCO487,199863,jackets,WOMAN,Summer,Cotton
+CRSLI488,199864,jackets,WOMAN,Spring,Linen
+OVAAC489,199865,jackets,WOMAN,Autumn,Acrylic
+TESPO490,199866,jackets,MAN,Spring,Polyester
+SLSLI491,199867,jackets,WOMAN,Summer,Linen
+BESVI492,199868,jackets,WOMAN,Spring,Viscose
+SOWWO493,199869,t-shirts,WOMAN,Winter,Wool
+REWWO494,199870,t-shirts,WOMAN,Winter,Wool
+UTSCO495,199871,t-shirts,WOMAN,Spring,Cotton
+CRSCO496,199872,shoes,WOMAN,Spring,Cotton
+TESPO497,199873,sweaters,MAN,Spring,Polyester
+STAPO498,199874,jackets,WOMAN,Autumn,Polyester
+TESCO499,199875,jackets,MAN,Spring,Cotton
+SASLI500,199876,t-shirts,WOMAN,Summer,Linen Blend
+OVWWO501,199877,shoes,WOMAN,Winter,Wool
+SLWWO502,199878,t-shirts,MAN,Winter,Wool Blend
+UTWWO503,199879,sweaters,MAN,Winter,Wool Blend
+COSCO504,199880,jackets,WOMAN,Spring,Cotton
+SUWCO505,199881,shoes,WOMAN,Winter,Cotton
+RESCO506,199882,jackets,MAN,Spring,Cotton
+STAWO507,199883,sweaters,MAN,Autumn,Wool
+RESLI508,199884,jackets,WOMAN,Summer,Linen
+STSLI509,199885,jackets,WOMAN,Summer,Linen Blend
+PLAPO510,199886,sweaters,MAN,Autumn,Polyester
+RISCO511,199887,jeans,WOMAN,Summer,Cotton
+PLAWO512,199888,jackets,MAN,Autumn,Wool Blend
+MOWAC513,199889,shoes,MAN,Winter,Acrylic
+TEAPO514,199890,jackets,WOMAN,Autumn,Polyester
+STAWO515,199891,jackets,WOMAN,Autumn,Wool
+CRWPO516,199892,shoes,MAN,Winter,Polyester
+RESCO517,199893,jackets,MAN,Spring,Cotton
+QUWPO518,199894,jackets,WOMAN,Winter,Polyester
+STSLI519,199895,sweaters,WOMAN,Summer,Linen
+ZISLI520,199896,t-shirts,WOMAN,Spring,Linen
+STSCO521,199897,jackets,WOMAN,Spring,Cotton
+HIAWO522,199898,t-shirts,WOMAN,Autumn,Wool
+OVWWO523,199899,jackets,MAN,Winter,Wool
+SAAWO524,199900,shoes,WOMAN,Autumn,Wool
+LISLI525,199901,shoes,WOMAN,Spring,Linen
+WOAWO526,199902,jackets,WOMAN,Autumn,Wool
+HIACO527,199903,jackets,WOMAN,Autumn,Cotton
+KNWWO528,199904,sweaters,WOMAN,Winter,Wool
+EMSCO529,199905,t-shirts,MAN,Spring,Cotton
+TAWWO530,199906,jeans,WOMAN,Winter,Wool
+TASVI531,199907,jackets,WOMAN,Spring,Viscose
+RISCO532,199908,jackets,WOMAN,Summer,Cotton
+UTSLI533,199909,jackets,WOMAN,Spring,Linen
+STWWO534,199910,shoes,WOMAN,Winter,Wool
+REAPO535,199911,jackets,WOMAN,Autumn,Polyester
+STAWO536,199912,jackets,WOMAN,Autumn,Wool
+KNWWO537,199913,jackets,MAN,Winter,Wool
+KNWPO538,199914,t-shirts,WOMAN,Winter,Polyester
+REWVI539,199915,jackets,WOMAN,Winter,Viscose
+HIWVI540,199916,sweaters,MAN,Winter,Viscose
+TESLI541,199917,sweaters,WOMAN,Spring,Linen
+UTACO542,199918,t-shirts,WOMAN,Autumn,Cotton
+DOSPO543,199919,jackets,WOMAN,Spring,Polyester
+SLWCO544,199920,sweaters,MAN,Winter,Cotton
+PAAPO545,199921,shoes,WOMAN,Autumn,Polyester
+WASCO546,199922,shoes,WOMAN,Spring,Cotton
+RESWO547,199923,jackets,WOMAN,Spring,Wool Blend
+OVACO548,199924,jackets,WOMAN,Autumn,Cotton
+REWPO549,199925,jackets,WOMAN,Winter,Polyester
+EMWCO550,199926,t-shirts,WOMAN,Winter,Cotton
+STAWO551,199927,jackets,WOMAN,Autumn,Wool Blend
+REAPO552,199928,sweaters,WOMAN,Autumn,Polyester
+EMWWO553,199929,sweaters,WOMAN,Winter,Wool
+STSLI554,199930,jackets,WOMAN,Summer,Linen
+STSLI555,199931,t-shirts,WOMAN,Summer,Linen Blend
+LISCO556,199932,sweaters,WOMAN,Summer,Cotton
+CRACO557,199933,jackets,WOMAN,Autumn,Cotton
+UTSLI558,199934,jackets,WOMAN,Spring,Linen
+TASCO559,199935,sweaters,WOMAN,Spring,Cotton
+COWWO560,199936,jackets,WOMAN,Winter,Wool
+TEAPO561,199937,shoes,WOMAN,Autumn,Polyester
+HISCO562,199938,jackets,MAN,Spring,Cotton
+DOACO563,199939,jackets,MAN,Autumn,Cotton
+RESCO564,199940,t-shirts,WOMAN,Summer,Cotton
+CRSLI565,199941,jackets,WOMAN,Summer,Linen Blend
+QUWCO566,199942,t-shirts,MAN,Winter,Cotton
+QUSLI567,199943,t-shirts,WOMAN,Spring,Linen
+CRAPO568,199944,shoes,WOMAN,Autumn,Polyester
+PLAPO569,199945,jackets,WOMAN,Autumn,Polyester
+STSLI570,199946,jackets,MAN,Spring,Linen
+REWWO571,199947,jackets,WOMAN,Winter,Wool Blend
+CRWAC572,199948,shoes,WOMAN,Winter,Acrylic
+SLSLI573,199949,jackets,WOMAN,Summer,Linen Blend
+RIADE574,199950,jackets,WOMAN,Autumn,Denim
+RIWWO575,199951,sweaters,MAN,Winter,Wool
+OVAWO576,199952,t-shirts,WOMAN,Autumn,Wool
+STAWO577,199953,jackets,WOMAN,Autumn,Wool
+TAWVI578,199954,jackets,WOMAN,Winter,Viscose
+STWWO579,199955,shoes,WOMAN,Winter,Wool
+SUSCO580,199956,sweaters,WOMAN,Spring,Cotton
+STWWO581,199957,jackets,WOMAN,Winter,Wool Blend
+SLACO582,199958,jackets,WOMAN,Autumn,Cotton
+LIAVI583,199959,t-shirts,MAN,Autumn,Viscose
+EMSCO584,199960,t-shirts,WOMAN,Spring,Cotton
+RISLI585,199961,sweaters,MAN,Spring,Linen
+OVWWO586,199962,sweaters,MAN,Winter,Wool
+UTSLI587,199963,sweaters,WOMAN,Spring,Linen
+PLWAC588,199964,sweaters,WOMAN,Winter,Acrylic
+KNAAC589,199965,jackets,WOMAN,Autumn,Acrylic
+STAWO590,199966,jackets,WOMAN,Autumn,Wool
+QUWWO591,199967,jackets,WOMAN,Winter,Wool Blend
+SLWWO592,199968,jackets,WOMAN,Winter,Wool
+LISLI593,199969,jackets,WOMAN,Summer,Linen
+QUWWO594,199970,jackets,MAN,Winter,Wool
+PLAPO595,199971,sweaters,MAN,Autumn,Polyester
+BASLI596,199972,jackets,MAN,Spring,Linen Blend
+LISLI597,199973,shoes,WOMAN,Summer,Linen
+EMAWO598,199974,jackets,MAN,Autumn,Wool Blend
+PUWWO599,199975,jackets,WOMAN,Winter,Wool
+CRAWO600,199976,t-shirts,MAN,Autumn,Wool
+LISLI601,199977,shoes,WOMAN,Summer,Linen
+WAADE602,199978,jackets,WOMAN,Autumn,Denim
+TEAWO603,199979,jackets,WOMAN,Autumn,Wool Blend
+TASLI604,199980,sweaters,WOMAN,Summer,Linen
+LISLI605,199981,jackets,MAN,Summer,Linen
+REWWO606,199982,jackets,WOMAN,Winter,Wool Blend
+QUWWO607,199983,jackets,MAN,Winter,Wool Blend
+PLWAC608,199984,sweaters,MAN,Winter,Acrylic
+HIAWO609,199985,shoes,WOMAN,Autumn,Wool Blend
+BOWCO610,199986,jackets,WOMAN,Winter,Cotton
+TEACO611,199987,jackets,WOMAN,Autumn,Cotton
+RESLI612,199988,jackets,WOMAN,Summer,Linen
+STAVI613,199989,sweaters,WOMAN,Autumn,Viscose
+REWWO614,199990,sweaters,WOMAN,Winter,Wool Blend
+RESVI615,199991,t-shirts,WOMAN,Spring,Viscose
+SUWPO616,199992,jackets,WOMAN,Winter,Polyester
+RESCO617,199993,shoes,WOMAN,Summer,Cotton
+TEWVI618,199994,jackets,WOMAN,Winter,Viscose
+SASLI619,199995,jackets,WOMAN,Summer,Linen
+EMAWO620,199996,jackets,WOMAN,Autumn,Wool
+COWAC621,199997,t-shirts,WOMAN,Winter,Acrylic
+QUSVI622,199998,sweaters,WOMAN,Spring,Viscose
+KNWWO623,199999,jackets,WOMAN,Winter,Wool
+KNWWO624,200000,sweaters,WOMAN,Winter,Wool
+SAWWO625,200001,jackets,MAN,Winter,Wool Blend
+REWWO626,200002,sweaters,WOMAN,Winter,Wool
+UTSAC627,200003,jackets,MAN,Summer,Acrylic
+RIWWO628,200004,jackets,MAN,Winter,Wool Blend
+REAPO629,200005,shoes,WOMAN,Autumn,Polyester
+FAACO630,200006,jackets,WOMAN,Autumn,Cotton
+BESLI631,200007,shoes,MAN,Spring,Linen
+EMAWO632,200008,jackets,WOMAN,Autumn,Wool
+STAWO633,200009,jackets,MAN,Autumn,Wool Blend
+RIAPO634,200010,jackets,MAN,Autumn,Polyester
+UTSCO635,200011,jackets,MAN,Summer,Cotton
+RISLI636,200012,jackets,MAN,Spring,Linen
+OVAAC637,200013,jackets,WOMAN,Autumn,Acrylic
+KNAWO638,200014,sweaters,WOMAN,Autumn,Wool Blend
+HIWWO639,200015,jackets,WOMAN,Winter,Wool
+EMSLI640,200016,jackets,WOMAN,Spring,Linen
+STAVI641,200017,sweaters,WOMAN,Autumn,Viscose
+QUSLI642,200018,t-shirts,MAN,Spring,Linen Blend
+REAWO643,200019,jackets,WOMAN,Autumn,Wool Blend
+SLSDE644,200020,jackets,WOMAN,Summer,Denim
+RIAWO645,200021,jackets,WOMAN,Autumn,Wool
+TAAWO646,200022,jeans,MAN,Autumn,Wool
+BESVI647,200023,jeans,MAN,Spring,Viscose
+STAWO648,200024,t-shirts,WOMAN,Autumn,Wool
+REWCO649,200025,shoes,WOMAN,Winter,Cotton
+BEWWO650,200026,shoes,WOMAN,Winter,Wool Blend
+QUSLI651,200027,shoes,WOMAN,Spring,Linen Blend
+UTWWO652,200028,t-shirts,WOMAN,Winter,Wool Blend
+KNSLI653,200029,shoes,WOMAN,Summer,Linen Blend
+FAAWO654,200030,jackets,WOMAN,Autumn,Wool Blend
+RIAPO655,200031,t-shirts,MAN,Autumn,Polyester
+EMSLI656,200032,jackets,MAN,Spring,Linen
+OVAWO657,200033,jackets,MAN,Autumn,Wool
+KNWWO658,200034,shoes,WOMAN,Winter,Wool Blend
+TAAPO659,200035,sweaters,MAN,Autumn,Polyester
+HISCO660,200036,jackets,WOMAN,Summer,Cotton
+STACO661,200037,jackets,MAN,Autumn,Cotton
+HISCO662,200038,shoes,MAN,Spring,Cotton
+DOSCO663,200039,jackets,MAN,Spring,Cotton
+WOAAC664,200040,jackets,MAN,Autumn,Acrylic
+SLAPO665,200041,jackets,MAN,Autumn,Polyester
+TEWAC666,200042,t-shirts,MAN,Winter,Acrylic
+TEAWO667,200043,jackets,WOMAN,Autumn,Wool Blend
+REWCO668,200044,jackets,MAN,Winter,Cotton
+DOSCO669,200045,t-shirts,MAN,Summer,Cotton
+STSLI670,200046,jackets,WOMAN,Spring,Linen Blend
+TEWWO671,200047,jackets,WOMAN,Winter,Wool
+SAWSI672,200048,t-shirts,WOMAN,Winter,Silk
+TESCO673,200049,jackets,WOMAN,Spring,Cotton
+PLSLI674,200050,t-shirts,WOMAN,Summer,Linen
+DOSLI675,200051,shoes,MAN,Spring,Linen
+RESLI676,200052,sweaters,MAN,Spring,Linen
+WAWWO677,200053,jackets,WOMAN,Winter,Wool Blend
+TAAPO678,200054,jeans,MAN,Autumn,Polyester
+FIAAC679,200055,jackets,MAN,Autumn,Acrylic
+OVAWO680,200056,sweaters,WOMAN,Autumn,Wool
+STAWO681,200057,shoes,MAN,Autumn,Wool
+CRSLI682,200058,sweaters,WOMAN,Spring,Linen
+REACO683,200059,sweaters,WOMAN,Autumn,Cotton
+STAWO684,200060,sweaters,WOMAN,Autumn,Wool
+UTSDE685,200061,t-shirts,WOMAN,Spring,Denim
+CRAWO686,200062,jackets,WOMAN,Autumn,Wool Blend
+KNWWO687,200063,jackets,WOMAN,Winter,Wool
+TESLI688,200064,shoes,WOMAN,Spring,Linen
+RESLI689,200065,jackets,WOMAN,Spring,Linen
+LISLI690,200066,jackets,MAN,Summer,Linen
+KNAAC691,200067,jackets,WOMAN,Autumn,Acrylic
+FASLI692,200068,jackets,WOMAN,Summer,Linen
+REWPO693,200069,jackets,MAN,Winter,Polyester
+SLAWO694,200070,jackets,WOMAN,Autumn,Wool
+REAWO695,200071,jackets,WOMAN,Autumn,Wool Blend
+CRSLI696,200072,jackets,MAN,Spring,Linen
+PLSCO697,200073,jackets,MAN,Spring,Cotton
+COSDE698,200074,jackets,WOMAN,Spring,Denim
+WOAWO699,200075,shoes,WOMAN,Autumn,Wool
+TESCO700,200076,sweaters,WOMAN,Summer,Cotton
+PLAWO701,200077,sweaters,WOMAN,Autumn,Wool
+STAWO702,200078,jeans,WOMAN,Autumn,Wool Blend
+UTSLI703,200079,shoes,WOMAN,Spring,Linen
+BRWWO704,200080,jeans,WOMAN,Winter,Wool Blend
+STWVI705,200081,jackets,WOMAN,Winter,Viscose
+LISLI706,200082,jackets,WOMAN,Summer,Linen
+STAWO707,200083,jackets,MAN,Autumn,Wool Blend
+QUSLI708,200084,jackets,WOMAN,Spring,Linen
+CRAWO709,200085,jackets,WOMAN,Autumn,Wool Blend
+SLAWO710,200086,jackets,MAN,Autumn,Wool Blend
+POADE711,200087,shoes,MAN,Autumn,Denim
+CRSWO712,200088,jackets,WOMAN,Spring,Wool Blend
+DOWWO713,200089,jackets,WOMAN,Winter,Wool
+BEAWO714,200090,jeans,MAN,Autumn,Wool
+DOSCO715,200091,t-shirts,MAN,Spring,Cotton
+STWWO716,200092,jackets,WOMAN,Winter,Wool
+REWCO717,200093,jackets,WOMAN,Winter,Cotton
+CRSLI718,200094,jackets,MAN,Summer,Linen
+SLSPO719,200095,shoes,WOMAN,Spring,Polyester
+CRAWO720,200096,jackets,WOMAN,Autumn,Wool Blend
+HIAWO721,200097,sweaters,WOMAN,Autumn,Wool Blend
+CRSCO722,200098,jackets,WOMAN,Spring,Cotton
+TAAWO723,200099,jackets,MAN,Autumn,Wool
+BEWWO724,200100,sweaters,WOMAN,Winter,Wool Blend
+CRSCO725,200101,jackets,WOMAN,Spring,Cotton
+TOWPO726,200102,jackets,WOMAN,Winter,Polyester
+KNSLI727,200103,jackets,WOMAN,Spring,Linen
+HISCO728,200104,jackets,MAN,Spring,Cotton
+KNAWO729,200105,jackets,MAN,Autumn,Wool Blend
+HIWWO730,200106,jackets,WOMAN,Winter,Wool Blend
+V-WWO731,200107,t-shirts,MAN,Winter,Wool
+PLAPO732,200108,jackets,WOMAN,Autumn,Polyester
+VISLI733,200109,jackets,MAN,Summer,Linen
+RASCO734,200110,sweaters,WOMAN,Spring,Cotton
+RIWWO735,200111,jackets,WOMAN,Winter,Wool Blend
+CRAWO736,200112,jackets,MAN,Autumn,Wool Blend
+STSCO737,200113,jackets,WOMAN,Summer,Cotton
+MOWWO738,200114,jeans,WOMAN,Winter,Wool Blend
+OVWWO739,200115,jackets,WOMAN,Winter,Wool
+BASLI740,200116,jackets,MAN,Summer,Linen
+LISLI741,200117,jackets,WOMAN,Summer,Linen
+QUWWO742,200118,sweaters,WOMAN,Winter,Wool Blend
+SLSCO743,200119,jackets,WOMAN,Spring,Cotton
+STAAC744,200120,sweaters,WOMAN,Autumn,Acrylic
+DOWWO745,200121,t-shirts,WOMAN,Winter,Wool Blend
+STAPO746,200122,jackets,WOMAN,Autumn,Polyester
+BEAWO747,200123,sweaters,WOMAN,Autumn,Wool Blend
+LISLI748,200124,jackets,MAN,Spring,Linen
+WOSCO749,200125,jackets,WOMAN,Summer,Cotton
+TAWCO750,200126,jackets,WOMAN,Winter,Cotton
+SASSA751,200127,t-shirts,WOMAN,Spring,Satin
+BESCO752,200128,jackets,WOMAN,Spring,Cotton
+COWWO753,200129,jeans,MAN,Winter,Wool
+RIAWO754,200130,jackets,WOMAN,Autumn,Wool
+STSCO755,200131,jackets,MAN,Summer,Cotton
+OVADE756,200132,shoes,WOMAN,Autumn,Denim
+EMAWO757,200133,jackets,MAN,Autumn,Wool
+EMSLI758,200134,shoes,WOMAN,Summer,Linen Blend
+SAWSA759,200135,jackets,WOMAN,Winter,Satin
+QUWWO760,200136,jackets,MAN,Winter,Wool
+LISLI761,200137,sweaters,WOMAN,Summer,Linen Blend
+CRWWO762,200138,t-shirts,WOMAN,Winter,Wool Blend
+STWPO763,200139,sweaters,WOMAN,Winter,Polyester
+HIAPO764,200140,jackets,MAN,Autumn,Polyester
+TAWAC765,200141,t-shirts,WOMAN,Winter,Acrylic
+BEWCO766,200142,jackets,WOMAN,Winter,Cotton
+SAAWO767,200143,jackets,MAN,Autumn,Wool Blend
+BESCO768,200144,jackets,WOMAN,Spring,Cotton
+EMSCO769,200145,jackets,WOMAN,Summer,Cotton
+HISPO770,200146,jackets,WOMAN,Summer,Polyester
+UTSWO771,200147,jackets,MAN,Spring,Wool Blend
+CRWWO772,200148,jackets,WOMAN,Winter,Wool
+TESDE773,200149,sweaters,WOMAN,Spring,Denim
+V-SWO774,200150,jackets,WOMAN,Spring,Wool
+EMAWO775,200151,shoes,WOMAN,Autumn,Wool
+QUWWO776,200152,sweaters,WOMAN,Winter,Wool Blend
+STAPO777,200153,jackets,MAN,Autumn,Polyester
+V-AWO778,200154,t-shirts,WOMAN,Autumn,Wool Blend
+HISLI779,200155,sweaters,WOMAN,Spring,Linen Blend
+REWWO780,200156,jackets,WOMAN,Winter,Wool Blend
+STWCO781,200157,t-shirts,WOMAN,Winter,Cotton
+STAWO782,200158,jackets,WOMAN,Autumn,Wool
+QUSLI783,200159,jackets,WOMAN,Summer,Linen Blend
+QUAVI784,200160,jackets,WOMAN,Autumn,Viscose
+TASCO785,200161,jackets,WOMAN,Summer,Cotton
+DOSPO786,200162,jackets,WOMAN,Spring,Polyester
+CAAWO787,200163,jackets,MAN,Autumn,Wool
+KNWWO788,200164,jackets,WOMAN,Winter,Wool Blend
+QUSLI789,200165,t-shirts,MAN,Summer,Linen
+QUSLI790,200166,jackets,WOMAN,Spring,Linen
+CRAWO791,200167,shoes,MAN,Autumn,Wool Blend
+STACO792,200168,shoes,WOMAN,Autumn,Cotton
+REAWO793,200169,jackets,WOMAN,Autumn,Wool Blend
+BAADE794,200170,jackets,MAN,Autumn,Denim
+STAPO795,200171,jackets,MAN,Autumn,Polyester
+CRADE796,200172,jackets,WOMAN,Autumn,Denim
+TESLI797,200173,t-shirts,MAN,Summer,Linen
+BEADE798,200174,t-shirts,MAN,Autumn,Denim
+OVSCO799,200175,sweaters,WOMAN,Spring,Cotton
+STWWO800,200176,sweaters,WOMAN,Winter,Wool Blend
+HISLI801,200177,jackets,WOMAN,Spring,Linen
+OVWWO802,200178,jackets,MAN,Winter,Wool
+BEAWO803,200179,sweaters,WOMAN,Autumn,Wool Blend
+CRSDE804,200180,shoes,WOMAN,Summer,Denim
+EMAWO805,200181,sweaters,WOMAN,Autumn,Wool
+KNWWO806,200182,t-shirts,MAN,Winter,Wool Blend
+STSLI807,200183,jackets,WOMAN,Spring,Linen
+TAAPO808,200184,jackets,WOMAN,Autumn,Polyester
+SLWWO809,200185,jackets,MAN,Winter,Wool
+FASLI810,200186,shoes,WOMAN,Spring,Linen Blend
+TESCO811,200187,sweaters,WOMAN,Spring,Cotton
+LISLI812,200188,t-shirts,WOMAN,Spring,Linen
+TAAWO813,200189,shoes,MAN,Autumn,Wool
+RESLI814,200190,jackets,WOMAN,Spring,Linen Blend
+SLWWO815,200191,t-shirts,WOMAN,Winter,Wool
+SLSCO816,200192,t-shirts,MAN,Spring,Cotton
+HIAWO817,200193,jackets,WOMAN,Autumn,Wool Blend
+TOAVI818,200194,jackets,WOMAN,Autumn,Viscose
+STSLI819,200195,jackets,MAN,Spring,Linen
+SUAWO820,200196,jackets,MAN,Autumn,Wool
+PLAWO821,200197,shoes,WOMAN,Autumn,Wool
+TEWPO822,200198,sweaters,MAN,Winter,Polyester
+KNWWO823,200199,jackets,WOMAN,Winter,Wool Blend
+TEAWO824,200200,shoes,WOMAN,Autumn,Wool Blend
+DOWWO825,200201,sweaters,MAN,Winter,Wool
+OVAPO826,200202,shoes,WOMAN,Autumn,Polyester
+SAASA827,200203,t-shirts,WOMAN,Autumn,Satin
+TEWWO828,200204,jackets,WOMAN,Winter,Wool Blend
+STWWO829,200205,t-shirts,WOMAN,Winter,Wool
+BASCO830,200206,sweaters,MAN,Summer,Cotton
+UTSLI831,200207,jackets,WOMAN,Spring,Linen
+FAACO832,200208,t-shirts,WOMAN,Autumn,Cotton
+PLSLI833,200209,sweaters,MAN,Summer,Linen
+FASLI834,200210,shoes,MAN,Summer,Linen
+REWWO835,200211,jackets,WOMAN,Winter,Wool
+POSDE836,200212,jackets,WOMAN,Spring,Denim
+SLSLI837,200213,jackets,MAN,Summer,Linen
+CRSLI838,200214,sweaters,MAN,Spring,Linen
+DESLI839,200215,jackets,WOMAN,Spring,Linen Blend
+EMSCO840,200216,jackets,WOMAN,Spring,Cotton
+DOAWO841,200217,jackets,WOMAN,Autumn,Wool Blend
+CRWPO842,200218,jackets,WOMAN,Winter,Polyester
+RIWWO843,200219,jackets,MAN,Winter,Wool
+OVAPO844,200220,t-shirts,MAN,Autumn,Polyester
+RESLI845,200221,sweaters,WOMAN,Summer,Linen
+SUSCO846,200222,jackets,WOMAN,Spring,Cotton
+SASCO847,200223,jackets,WOMAN,Spring,Cotton
+REAWO848,200224,shoes,WOMAN,Autumn,Wool Blend
+OVACO849,200225,t-shirts,MAN,Autumn,Cotton
+UTSCO850,200226,t-shirts,MAN,Spring,Cotton
+RISCO851,200227,sweaters,WOMAN,Spring,Cotton
+ABSLI852,200228,jackets,WOMAN,Summer,Linen
+HIWWO853,200229,jackets,MAN,Winter,Wool Blend
+SLSCO854,200230,t-shirts,WOMAN,Summer,Cotton
+STSLI855,200231,t-shirts,WOMAN,Spring,Linen
+TAAPO856,200232,sweaters,MAN,Autumn,Polyester
+HISPO857,200233,jackets,WOMAN,Spring,Polyester
+TEWWO858,200234,jackets,MAN,Winter,Wool
+DOSLI859,200235,jackets,WOMAN,Summer,Linen
+PLSLI860,200236,sweaters,WOMAN,Spring,Linen Blend
+HISLI861,200237,jackets,MAN,Summer,Linen
+SLSLI862,200238,jackets,MAN,Spring,Linen
+TAACO863,200239,t-shirts,WOMAN,Autumn,Cotton
+CRAVI864,200240,jackets,WOMAN,Autumn,Viscose
+REWWO865,200241,sweaters,MAN,Winter,Wool
+PAACO866,200242,t-shirts,MAN,Autumn,Cotton
+TEAAC867,200243,sweaters,WOMAN,Autumn,Acrylic
+ABSCO868,200244,jackets,WOMAN,Summer,Cotton
+DOSLI869,200245,sweaters,MAN,Spring,Linen
+LISCO870,200246,jackets,MAN,Summer,Cotton
+SLWWO871,200247,t-shirts,WOMAN,Winter,Wool
+CRAPO872,200248,shoes,WOMAN,Autumn,Polyester
+OVWWO873,200249,sweaters,WOMAN,Winter,Wool
+DOSWO874,200250,jackets,WOMAN,Summer,Wool Blend
+OVSCO875,200251,t-shirts,MAN,Summer,Cotton
+CAWWO876,200252,jackets,WOMAN,Winter,Wool
+TEAVI877,200253,jackets,WOMAN,Autumn,Viscose
+OVAWO878,200254,jackets,WOMAN,Autumn,Wool Blend
+SLSLI879,200255,jackets,WOMAN,Spring,Linen
+STSCO880,200256,jackets,WOMAN,Summer,Cotton
+OVWWO881,200257,t-shirts,WOMAN,Winter,Wool
+PLSPO882,200258,jackets,WOMAN,Spring,Polyester
+FOWPO883,200259,jackets,WOMAN,Winter,Polyester
+EMWWO884,200260,jackets,MAN,Winter,Wool
+HOAWO885,200261,sweaters,MAN,Autumn,Wool
+RESLI886,200262,jackets,WOMAN,Summer,Linen Blend
+COWWO887,200263,jackets,MAN,Winter,Wool
+OVWWO888,200264,t-shirts,WOMAN,Winter,Wool
+RESCO889,200265,t-shirts,WOMAN,Summer,Cotton
+CRSWO890,200266,jackets,WOMAN,Summer,Wool Blend
+CRSLI891,200267,sweaters,WOMAN,Spring,Linen
+TEAWO892,200268,sweaters,MAN,Autumn,Wool
+LISCO893,200269,t-shirts,MAN,Spring,Cotton
+BESPO894,200270,jackets,MAN,Summer,Polyester
+UTAPO895,200271,jackets,MAN,Autumn,Polyester
+MUAPO896,200272,jackets,MAN,Autumn,Polyester
+LISCO897,200273,jackets,WOMAN,Spring,Cotton
+STAWO898,200274,shoes,MAN,Autumn,Wool
+DOSCO899,200275,jackets,WOMAN,Spring,Cotton
+10AWO900,200276,jackets,MAN,Autumn,Wool Blend
+PUWWO901,200277,shoes,WOMAN,Winter,Wool Blend
+SASPO902,200278,sweaters,MAN,Summer,Polyester
+COWWO903,200279,jackets,WOMAN,Winter,Wool
+OVAWO904,200280,jackets,MAN,Autumn,Wool Blend
+REAWO905,200281,t-shirts,WOMAN,Autumn,Wool
+SLADE906,200282,jackets,MAN,Autumn,Denim
+REAPO907,200283,jackets,WOMAN,Autumn,Polyester
+TEACO908,200284,t-shirts,WOMAN,Autumn,Cotton
+KNAWO909,200285,jeans,WOMAN,Autumn,Wool
+WOWWO910,200286,jackets,MAN,Winter,Wool
+TAAWO911,200287,t-shirts,MAN,Autumn,Wool Blend
+HIAPO912,200288,jackets,MAN,Autumn,Polyester
+EMWWO913,200289,jackets,WOMAN,Winter,Wool Blend
+CRSCO914,200290,jackets,WOMAN,Spring,Cotton
+HIADE915,200291,jackets,WOMAN,Autumn,Denim
+SAWAC916,200292,jackets,WOMAN,Winter,Acrylic
+REWWO917,200293,jackets,MAN,Winter,Wool
+HISLI918,200294,shoes,WOMAN,Spring,Linen
+EMAVI919,200295,jackets,WOMAN,Autumn,Viscose
+TAWWO920,200296,sweaters,MAN,Winter,Wool
+SLADE921,200297,jackets,WOMAN,Autumn,Denim
+UTWWO922,200298,t-shirts,MAN,Winter,Wool
+STWAC923,200299,sweaters,WOMAN,Winter,Acrylic
+UTSDE924,200300,jackets,WOMAN,Spring,Denim
+TAAWO925,200301,jackets,WOMAN,Autumn,Wool Blend
+RIWVI926,200302,t-shirts,WOMAN,Winter,Viscose
+KNSLI927,200303,shoes,WOMAN,Summer,Linen
+KNSWO928,200304,jackets,WOMAN,Summer,Wool Blend
+DOSCO929,200305,jackets,WOMAN,Spring,Cotton
+OVWWO930,200306,t-shirts,WOMAN,Winter,Wool Blend
+DOSCO931,200307,t-shirts,MAN,Spring,Cotton
+REWWO932,200308,t-shirts,WOMAN,Winter,Wool Blend
+TASCO933,200309,sweaters,WOMAN,Summer,Cotton
+BESLI934,200310,shoes,WOMAN,Summer,Linen
+LISLI935,200311,sweaters,WOMAN,Spring,Linen
+BEWWO936,200312,jackets,WOMAN,Winter,Wool
+STSCO937,200313,sweaters,MAN,Summer,Cotton
+SASCO938,200314,shoes,MAN,Summer,Cotton
+REWAC939,200315,sweaters,WOMAN,Winter,Acrylic
+EMAPO940,200316,shoes,WOMAN,Autumn,Polyester
+QUSVI941,200317,jackets,MAN,Spring,Viscose
+HOSLI942,200318,jackets,WOMAN,Spring,Linen
+TESCO943,200319,jackets,WOMAN,Summer,Cotton
+UTADE944,200320,t-shirts,MAN,Autumn,Denim
+OVWWO945,200321,shoes,MAN,Winter,Wool Blend
+CRWWO946,200322,jackets,WOMAN,Winter,Wool Blend
+CRWWO947,200323,jackets,WOMAN,Winter,Wool
+SAAWO948,200324,t-shirts,WOMAN,Autumn,Wool Blend
+BEWWO949,200325,jackets,MAN,Winter,Wool
+PLSLI950,200326,t-shirts,MAN,Spring,Linen
+LISLI951,200327,sweaters,WOMAN,Summer,Linen
+SASLI952,200328,jackets,MAN,Summer,Linen
+LISLI953,200329,jackets,MAN,Spring,Linen Blend
+OVSPO954,200330,sweaters,WOMAN,Spring,Polyester
+KNWWO955,200331,t-shirts,WOMAN,Winter,Wool
+SAWWO956,200332,shoes,WOMAN,Winter,Wool
+REAWO957,200333,jackets,WOMAN,Autumn,Wool Blend
+QUWWO958,200334,jackets,MAN,Winter,Wool Blend
+EMSCO959,200335,shoes,WOMAN,Summer,Cotton
+PLWCO960,200336,jackets,WOMAN,Winter,Cotton
+TEAAC961,200337,jackets,WOMAN,Autumn,Acrylic
+STSCO962,200338,jackets,WOMAN,Summer,Cotton
+FAAPO963,200339,sweaters,WOMAN,Autumn,Polyester
+WOAWO964,200340,t-shirts,WOMAN,Autumn,Wool
+OVSPO965,200341,jackets,WOMAN,Spring,Polyester
+BAAWO966,200342,t-shirts,WOMAN,Autumn,Wool Blend
+OVAWO967,200343,jackets,WOMAN,Autumn,Wool Blend
+KNWWO968,200344,sweaters,WOMAN,Winter,Wool
+BOSLI969,200345,jackets,WOMAN,Summer,Linen Blend
+COAWO970,200346,jackets,WOMAN,Autumn,Wool Blend
+OVWWO971,200347,jackets,MAN,Winter,Wool Blend
+BAWWO972,200348,jackets,WOMAN,Winter,Wool Blend
+OVWAC973,200349,jackets,WOMAN,Winter,Acrylic
+KNAAC974,200350,sweaters,WOMAN,Autumn,Acrylic
+DOWWO975,200351,jackets,WOMAN,Winter,Wool Blend
+SAASA976,200352,jackets,WOMAN,Autumn,Satin
+MUWPO977,200353,jackets,WOMAN,Winter,Polyester
+HIACO978,200354,jackets,WOMAN,Autumn,Cotton
+OVADE979,200355,jackets,WOMAN,Autumn,Denim
+QUAWO980,200356,shoes,MAN,Autumn,Wool Blend
+TASLI981,200357,shoes,WOMAN,Spring,Linen
+TAACO982,200358,jackets,WOMAN,Autumn,Cotton
+SASLI983,200359,jackets,WOMAN,Spring,Linen
+STACO984,200360,jackets,MAN,Autumn,Cotton
+COAWO985,200361,shoes,WOMAN,Autumn,Wool Blend
+SAWWO986,200362,shoes,WOMAN,Winter,Wool Blend
+STWWO987,200363,jackets,MAN,Winter,Wool Blend
+REWPO988,200364,t-shirts,WOMAN,Winter,Polyester
+TEAPO989,200365,shoes,WOMAN,Autumn,Polyester
+SUSVI990,200366,jackets,MAN,Spring,Viscose
+SLAPO991,200367,jackets,MAN,Autumn,Polyester
+SLSLI992,200368,jackets,MAN,Spring,Linen
+PLAPO993,200369,sweaters,WOMAN,Autumn,Polyester
+DOWWO994,200370,jackets,WOMAN,Winter,Wool
+SASSA995,200371,sweaters,MAN,Summer,Satin
+PLWWO996,200372,jackets,WOMAN,Winter,Wool Blend
+BAWWO997,200373,shoes,WOMAN,Winter,Wool Blend
+DOSDE998,200374,shoes,WOMAN,Spring,Denim
+TAAWO999,200375,jackets,WOMAN,Autumn,Wool Blend
+SAAWO1000,200376,jackets,WOMAN,Autumn,Wool
+UTAVI1001,200377,jackets,MAN,Autumn,Viscose
+STWWO1002,200378,jeans,MAN,Winter,Wool Blend
+SASCO1003,200379,jackets,MAN,Spring,Cotton
+LISCO1004,200380,shoes,WOMAN,Summer,Cotton
+LISLI1005,200381,jackets,MAN,Summer,Linen Blend
+LISLI1006,200382,sweaters,MAN,Summer,Linen
+BAWWO1007,200383,jackets,WOMAN,Winter,Wool Blend
+PLAWO1008,200384,sweaters,MAN,Autumn,Wool Blend
+LOSPO1009,200385,shoes,WOMAN,Spring,Polyester
+PLSLI1010,200386,jeans,WOMAN,Spring,Linen
+LISLI1011,200387,sweaters,WOMAN,Summer,Linen Blend
+STAWO1012,200388,jackets,WOMAN,Autumn,Wool
+TEAWO1013,200389,t-shirts,WOMAN,Autumn,Wool
+OVSCO1014,200390,jackets,MAN,Spring,Cotton
+STAWO1015,200391,jackets,WOMAN,Autumn,Wool
+TEWAC1016,200392,jackets,WOMAN,Winter,Acrylic
+TESDE1017,200393,jackets,WOMAN,Spring,Denim
+UTSCO1018,200394,jackets,WOMAN,Spring,Cotton
+TASLI1019,200395,t-shirts,WOMAN,Spring,Linen
+CRWPO1020,200396,jackets,MAN,Winter,Polyester
+STSLI1021,200397,jackets,MAN,Summer,Linen
+QUSLI1022,200398,t-shirts,WOMAN,Summer,Linen
+HISLI1023,200399,jackets,WOMAN,Spring,Linen Blend
+REWWO1024,200400,jackets,WOMAN,Winter,Wool
+BEWWO1025,200401,t-shirts,MAN,Winter,Wool Blend
+EMWCO1026,200402,sweaters,WOMAN,Winter,Cotton
+RISCO1027,200403,shoes,MAN,Spring,Cotton
+COSLI1028,200404,jackets,WOMAN,Spring,Linen
+STWWO1029,200405,jackets,WOMAN,Winter,Wool Blend
+UTSCO1030,200406,jackets,WOMAN,Summer,Cotton
+RESLI1031,200407,jackets,MAN,Summer,Linen Blend
+UTAPO1032,200408,t-shirts,MAN,Autumn,Polyester
+BESCO1033,200409,t-shirts,WOMAN,Spring,Cotton
+TEACO1034,200410,shoes,WOMAN,Autumn,Cotton
+EMADE1035,200411,jackets,WOMAN,Autumn,Denim
+RISCO1036,200412,jackets,MAN,Spring,Cotton
+REAWO1037,200413,sweaters,WOMAN,Autumn,Wool Blend
+LISLI1038,200414,jackets,WOMAN,Summer,Linen
+SAWWO1039,200415,jackets,MAN,Winter,Wool Blend
+QUSLI1040,200416,jackets,WOMAN,Spring,Linen
+RIACO1041,200417,jackets,WOMAN,Autumn,Cotton
+TEAWO1042,200418,sweaters,WOMAN,Autumn,Wool Blend
+HOSCO1043,200419,t-shirts,WOMAN,Spring,Cotton
+STACO1044,200420,shoes,WOMAN,Autumn,Cotton
+RISCO1045,200421,t-shirts,WOMAN,Spring,Cotton
+OVADE1046,200422,shoes,WOMAN,Autumn,Denim
+UTAPO1047,200423,shoes,WOMAN,Autumn,Polyester
+BASLI1048,200424,jackets,WOMAN,Summer,Linen
+STSWO1049,200425,jackets,WOMAN,Spring,Wool
+EMWPO1050,200426,jackets,WOMAN,Winter,Polyester
+KNAWO1051,200427,sweaters,MAN,Autumn,Wool Blend
+RIWVI1052,200428,sweaters,MAN,Winter,Viscose
+OVAWO1053,200429,jackets,WOMAN,Autumn,Wool Blend
+PUWWO1054,200430,jackets,MAN,Winter,Wool Blend
+PLWVI1055,200431,jackets,WOMAN,Winter,Viscose
+CRWPO1056,200432,shoes,WOMAN,Winter,Polyester
+SAWAC1057,200433,shoes,WOMAN,Winter,Acrylic
+SAAWO1058,200434,shoes,WOMAN,Autumn,Wool Blend
+COSLI1059,200435,jackets,WOMAN,Summer,Linen
+STAVI1060,200436,sweaters,MAN,Autumn,Viscose
+TEAVI1061,200437,jackets,WOMAN,Autumn,Viscose
+TESLI1062,200438,sweaters,WOMAN,Summer,Linen
+PLSCO1063,200439,jackets,WOMAN,Spring,Cotton
+TESLI1064,200440,shoes,MAN,Spring,Linen
+CRACO1065,200441,shoes,WOMAN,Autumn,Cotton
+STAWO1066,200442,jackets,MAN,Autumn,Wool
+BESLI1067,200443,t-shirts,MAN,Summer,Linen Blend
+EMWPO1068,200444,sweaters,WOMAN,Winter,Polyester
+TAWWO1069,200445,jackets,WOMAN,Winter,Wool
+PLWWO1070,200446,jackets,MAN,Winter,Wool Blend
+KNAWO1071,200447,sweaters,WOMAN,Autumn,Wool Blend
+DOWWO1072,200448,sweaters,MAN,Winter,Wool Blend
+TAWDE1073,200449,jackets,WOMAN,Winter,Denim
+JAAWO1074,200450,t-shirts,WOMAN,Autumn,Wool Blend
+POADE1075,200451,jeans,WOMAN,Autumn,Denim
+TEWPO1076,200452,sweaters,WOMAN,Winter,Polyester
+DOAVI1077,200453,jackets,WOMAN,Autumn,Viscose
+QUSCO1078,200454,t-shirts,WOMAN,Spring,Cotton
+FLWDE1079,200455,t-shirts,WOMAN,Winter,Denim
+TESLI1080,200456,jackets,MAN,Summer,Linen
+KNWWO1081,200457,sweaters,WOMAN,Winter,Wool
+HISCO1082,200458,jeans,WOMAN,Summer,Cotton
+LISLI1083,200459,jackets,WOMAN,Spring,Linen
+SAWWO1084,200460,jackets,MAN,Winter,Wool
+KNAWO1085,200461,jackets,MAN,Autumn,Wool
+PRSCO1086,200462,sweaters,WOMAN,Spring,Cotton
+PRWPO1087,200463,t-shirts,WOMAN,Winter,Polyester
+KNWWO1088,200464,sweaters,WOMAN,Winter,Wool
+10AWO1089,200465,jackets,WOMAN,Autumn,Wool Blend
+SLAVI1090,200466,t-shirts,MAN,Autumn,Viscose
+ZIWAC1091,200467,jackets,WOMAN,Winter,Acrylic
+KNAWO1092,200468,t-shirts,MAN,Autumn,Wool
+FAACO1093,200469,jackets,WOMAN,Autumn,Cotton
+TAACO1094,200470,shoes,WOMAN,Autumn,Cotton
+OVWWO1095,200471,shoes,MAN,Winter,Wool Blend
+HISWO1096,200472,jackets,WOMAN,Spring,Wool
+UTACO1097,200473,jackets,WOMAN,Autumn,Cotton
+COAVI1098,200474,sweaters,WOMAN,Autumn,Viscose
+BEAPO1099,200475,jackets,WOMAN,Autumn,Polyester
+HIADE1100,200476,jackets,MAN,Autumn,Denim
+CRSLI1101,200477,sweaters,WOMAN,Spring,Linen
+OVAWO1102,200478,jackets,MAN,Autumn,Wool Blend
+CRSCO1103,200479,jackets,WOMAN,Spring,Cotton
+KNAWO1104,200480,t-shirts,WOMAN,Autumn,Wool
+REWCO1105,200481,t-shirts,WOMAN,Winter,Cotton
+TAAVI1106,200482,t-shirts,WOMAN,Autumn,Viscose
+COSLI1107,200483,t-shirts,WOMAN,Summer,Linen
+UTSCO1108,200484,jackets,WOMAN,Summer,Cotton
+SAAPO1109,200485,t-shirts,MAN,Autumn,Polyester
+FAAWO1110,200486,jackets,MAN,Autumn,Wool
+BAWPO1111,200487,jackets,MAN,Winter,Polyester
+QUWWO1112,200488,jackets,WOMAN,Winter,Wool
+LIWAC1113,200489,jackets,MAN,Winter,Acrylic
+KNWWO1114,200490,jackets,MAN,Winter,Wool Blend
+READE1115,200491,t-shirts,WOMAN,Autumn,Denim
+TESLI1116,200492,jackets,WOMAN,Spring,Linen
+OVACO1117,200493,jackets,WOMAN,Autumn,Cotton
+DOSLI1118,200494,jackets,MAN,Summer,Linen
+CRAWO1119,200495,jackets,MAN,Autumn,Wool Blend
+UTWWO1120,200496,jackets,WOMAN,Winter,Wool
+RIWPO1121,200497,sweaters,WOMAN,Winter,Polyester
+QUSCO1122,200498,jackets,WOMAN,Summer,Cotton
+OVWWO1123,200499,shoes,MAN,Winter,Wool
+STACO1124,200500,t-shirts,WOMAN,Autumn,Cotton
+QUWWO1125,200501,t-shirts,WOMAN,Winter,Wool
+KNAWO1126,200502,shoes,WOMAN,Autumn,Wool Blend
+PLAPO1127,200503,shoes,MAN,Autumn,Polyester
+CRSLI1128,200504,jackets,MAN,Summer,Linen Blend
+REWWO1129,200505,jackets,MAN,Winter,Wool
+OVSDE1130,200506,jackets,WOMAN,Spring,Denim
+UTWWO1131,200507,jackets,WOMAN,Winter,Wool
+OVWWO1132,200508,shoes,MAN,Winter,Wool
+TASLI1133,200509,jackets,MAN,Summer,Linen
+EMSLI1134,200510,jackets,WOMAN,Spring,Linen
+FAAVI1135,200511,jackets,WOMAN,Autumn,Viscose
+LESVI1136,200512,jackets,MAN,Spring,Viscose
+EMAWO1137,200513,shoes,WOMAN,Autumn,Wool
+LISCO1138,200514,t-shirts,WOMAN,Summer,Cotton
+TAWCO1139,200515,t-shirts,WOMAN,Winter,Cotton
+DOSLI1140,200516,jackets,MAN,Summer,Linen
+OVAPO1141,200517,shoes,WOMAN,Autumn,Polyester
+PLAWO1142,200518,t-shirts,MAN,Autumn,Wool Blend
+TAWDE1143,200519,jackets,WOMAN,Winter,Denim
+PASVI1144,200520,jeans,MAN,Spring,Viscose
+KNWWO1145,200521,t-shirts,WOMAN,Winter,Wool Blend
+TAACO1146,200522,jackets,WOMAN,Autumn,Cotton
+TASCO1147,200523,sweaters,WOMAN,Summer,Cotton
+CRSLI1148,200524,sweaters,WOMAN,Spring,Linen
+UTAPO1149,200525,jackets,MAN,Autumn,Polyester
+SAACO1150,200526,shoes,WOMAN,Autumn,Cotton
+STWWO1151,200527,sweaters,WOMAN,Winter,Wool Blend
+QUSLI1152,200528,sweaters,WOMAN,Spring,Linen
+CRSPO1153,200529,shoes,MAN,Spring,Polyester
+TASCO1154,200530,jackets,MAN,Summer,Cotton
+BESPO1155,200531,t-shirts,WOMAN,Spring,Polyester
+EMSCO1156,200532,jackets,MAN,Summer,Cotton
+UTWWO1157,200533,jackets,MAN,Winter,Wool
+SUWCO1158,200534,shoes,WOMAN,Winter,Cotton
+UTSLI1159,200535,jackets,WOMAN,Summer,Linen Blend
+HEACO1160,200536,jackets,MAN,Autumn,Cotton
+HIAAC1161,200537,jeans,WOMAN,Autumn,Acrylic
+STSLI1162,200538,t-shirts,WOMAN,Spring,Linen
+BESLI1163,200539,shoes,WOMAN,Summer,Linen
+HIWWO1164,200540,jackets,MAN,Winter,Wool
+STADE1165,200541,shoes,MAN,Autumn,Denim
+CRWWO1166,200542,jackets,WOMAN,Winter,Wool Blend
+BEWWO1167,200543,jackets,MAN,Winter,Wool Blend
+TEAVI1168,200544,jackets,WOMAN,Autumn,Viscose
+RISCO1169,200545,sweaters,WOMAN,Spring,Cotton
+KNWWO1170,200546,jackets,WOMAN,Winter,Wool
+KNSCO1171,200547,sweaters,WOMAN,Spring,Cotton
+SLSCO1172,200548,shoes,MAN,Spring,Cotton
+MOAWO1173,200549,t-shirts,WOMAN,Autumn,Wool Blend
+COSPO1174,200550,jackets,WOMAN,Spring,Polyester
+KNWWO1175,200551,jackets,WOMAN,Winter,Wool Blend
+DOSVI1176,200552,shoes,WOMAN,Spring,Viscose
+QUAWO1177,200553,jackets,WOMAN,Autumn,Wool
+WOWWO1178,200554,jackets,MAN,Winter,Wool Blend
+TEWWO1179,200555,jackets,WOMAN,Winter,Wool
+SLACO1180,200556,sweaters,MAN,Autumn,Cotton
+ZIAAC1181,200557,sweaters,WOMAN,Autumn,Acrylic
+EMAPO1182,200558,sweaters,WOMAN,Autumn,Polyester
+RIWWO1183,200559,jackets,MAN,Winter,Wool Blend
+BAADE1184,200560,sweaters,WOMAN,Autumn,Denim
+HIAPO1185,200561,jackets,WOMAN,Autumn,Polyester
+SUSVI1186,200562,jackets,MAN,Spring,Viscose
+UTWAC1187,200563,t-shirts,WOMAN,Winter,Acrylic
+SLSCO1188,200564,jackets,MAN,Spring,Cotton
+STADE1189,200565,sweaters,WOMAN,Autumn,Denim
+DOSWO1190,200566,jackets,MAN,Summer,Wool Blend
+REWWO1191,200567,jackets,WOMAN,Winter,Wool
+BEADE1192,200568,jackets,WOMAN,Autumn,Denim
+RIAWO1193,200569,jackets,WOMAN,Autumn,Wool
+CRWWO1194,200570,jackets,WOMAN,Winter,Wool
+TAAPO1195,200571,jackets,WOMAN,Autumn,Polyester
+TESCO1196,200572,shoes,MAN,Spring,Cotton
+BOSPO1197,200573,t-shirts,WOMAN,Spring,Polyester
+STSLI1198,200574,sweaters,WOMAN,Summer,Linen Blend
+EMSCO1199,200575,jackets,WOMAN,Summer,Cotton
+WOSCO1200,200576,jackets,MAN,Spring,Cotton
+TASCO1201,200577,jackets,MAN,Spring,Cotton
+BESLI1202,200578,t-shirts,WOMAN,Summer,Linen
+STWPO1203,200579,jackets,MAN,Winter,Polyester
+SLSCO1204,200580,sweaters,WOMAN,Spring,Cotton
+TAWWO1205,200581,shoes,WOMAN,Winter,Wool Blend
+HIAVI1206,200582,jackets,MAN,Autumn,Viscose
+OVSLI1207,200583,jackets,WOMAN,Summer,Linen
+STWAC1208,200584,jackets,WOMAN,Winter,Acrylic
+STWWO1209,200585,shoes,WOMAN,Winter,Wool Blend
+KNSLI1210,200586,t-shirts,WOMAN,Summer,Linen Blend
+HISLI1211,200587,sweaters,WOMAN,Spring,Linen
+TESPO1212,200588,shoes,WOMAN,Spring,Polyester
+HIAPO1213,200589,shoes,WOMAN,Autumn,Polyester
+TEAWO1214,200590,t-shirts,MAN,Autumn,Wool Blend
+STWAC1215,200591,jackets,MAN,Winter,Acrylic
+STAWO1216,200592,jackets,WOMAN,Autumn,Wool Blend
+STSLI1217,200593,jackets,WOMAN,Spring,Linen
+PLWWO1218,200594,jackets,MAN,Winter,Wool
+RISDE1219,200595,t-shirts,MAN,Spring,Denim
+PLAWO1220,200596,jeans,WOMAN,Autumn,Wool
+FLWDE1221,200597,shoes,WOMAN,Winter,Denim
+DOAWO1222,200598,jackets,WOMAN,Autumn,Wool Blend
+BEWDE1223,200599,jeans,WOMAN,Winter,Denim
+EMSCO1224,200600,jackets,WOMAN,Spring,Cotton
+EMWWO1225,200601,shoes,MAN,Winter,Wool Blend
+LIAPO1226,200602,jackets,MAN,Autumn,Polyester
+DOACO1227,200603,t-shirts,WOMAN,Autumn,Cotton
+LISLI1228,200604,jackets,WOMAN,Summer,Linen
+LISCO1229,200605,t-shirts,WOMAN,Summer,Cotton
+PLAWO1230,200606,jackets,WOMAN,Autumn,Wool Blend
+PLSLI1231,200607,jackets,WOMAN,Spring,Linen Blend
+LISLI1232,200608,jackets,WOMAN,Summer,Linen
+CHSVI1233,200609,shoes,WOMAN,Spring,Viscose
+STSCO1234,200610,sweaters,WOMAN,Spring,Cotton
+RISCO1235,200611,shoes,WOMAN,Summer,Cotton
+DOAPO1236,200612,shoes,MAN,Autumn,Polyester
+EMAPO1237,200613,shoes,WOMAN,Autumn,Polyester
+BESCO1238,200614,jackets,WOMAN,Spring,Cotton
+REAPO1239,200615,sweaters,MAN,Autumn,Polyester
+RESCO1240,200616,shoes,WOMAN,Spring,Cotton
+EMSLI1241,200617,jackets,WOMAN,Spring,Linen
+CRAPO1242,200618,sweaters,WOMAN,Autumn,Polyester
+EMWWO1243,200619,sweaters,WOMAN,Winter,Wool Blend
+TESWO1244,200620,jackets,WOMAN,Spring,Wool Blend
+STSLI1245,200621,jackets,WOMAN,Summer,Linen
+REAWO1246,200622,jackets,WOMAN,Autumn,Wool
+TESLI1247,200623,sweaters,WOMAN,Spring,Linen
+STAWO1248,200624,sweaters,WOMAN,Autumn,Wool
+STWWO1249,200625,jackets,WOMAN,Winter,Wool
+SLSLI1250,200626,sweaters,MAN,Summer,Linen
+REAWO1251,200627,shoes,MAN,Autumn,Wool
+KNSLI1252,200628,t-shirts,WOMAN,Summer,Linen
+PAWWO1253,200629,t-shirts,WOMAN,Winter,Wool Blend
+RESCO1254,200630,sweaters,WOMAN,Spring,Cotton
+BESDE1255,200631,jackets,WOMAN,Spring,Denim
+BEWPO1256,200632,jackets,WOMAN,Winter,Polyester
+SAAWO1257,200633,jackets,WOMAN,Autumn,Wool Blend
+REAWO1258,200634,jeans,WOMAN,Autumn,Wool
+OVAPO1259,200635,jeans,WOMAN,Autumn,Polyester
+POAWO1260,200636,jeans,WOMAN,Autumn,Wool
+STAWO1261,200637,jackets,MAN,Autumn,Wool Blend
+UTSPO1262,200638,jackets,WOMAN,Spring,Polyester
+UTWWO1263,200639,jackets,WOMAN,Winter,Wool
+REAWO1264,200640,shoes,WOMAN,Autumn,Wool
+QUWWO1265,200641,jeans,WOMAN,Winter,Wool
+STACO1266,200642,jackets,WOMAN,Autumn,Cotton
+LISCO1267,200643,jackets,MAN,Summer,Cotton
+TAAVI1268,200644,jackets,MAN,Autumn,Viscose
+BEAAC1269,200645,jackets,MAN,Autumn,Acrylic
+SASLI1270,200646,t-shirts,WOMAN,Summer,Linen
+READE1271,200647,jackets,WOMAN,Autumn,Denim
+TAAWO1272,200648,jackets,MAN,Autumn,Wool
+LISCO1273,200649,sweaters,WOMAN,Spring,Cotton
+KNWWO1274,200650,sweaters,WOMAN,Winter,Wool
+REACO1275,200651,jackets,WOMAN,Autumn,Cotton
+LISCO1276,200652,jackets,WOMAN,Summer,Cotton
+RIWWO1277,200653,sweaters,MAN,Winter,Wool Blend
+TESCO1278,200654,t-shirts,WOMAN,Spring,Cotton
+FASVI1279,200655,jackets,WOMAN,Spring,Viscose
+SLWWO1280,200656,sweaters,WOMAN,Winter,Wool
+EMWWO1281,200657,jeans,WOMAN,Winter,Wool
+RASLI1282,200658,jeans,MAN,Summer,Linen Blend
+RIAWO1283,200659,sweaters,MAN,Autumn,Wool
+RESCO1284,200660,jackets,WOMAN,Summer,Cotton
+KNWWO1285,200661,jackets,MAN,Winter,Wool Blend
+CRSWO1286,200662,jackets,WOMAN,Spring,Wool
+BEWWO1287,200663,t-shirts,MAN,Winter,Wool
+LISLI1288,200664,jackets,MAN,Summer,Linen
+HIAPO1289,200665,sweaters,MAN,Autumn,Polyester
+KNWAC1290,200666,t-shirts,WOMAN,Winter,Acrylic
+TESCO1291,200667,jackets,WOMAN,Summer,Cotton
+BESLI1292,200668,sweaters,WOMAN,Spring,Linen
+SUWWO1293,200669,jackets,WOMAN,Winter,Wool
+PLAVI1294,200670,jackets,MAN,Autumn,Viscose
+REAWO1295,200671,sweaters,MAN,Autumn,Wool
+TEWVI1296,200672,jackets,WOMAN,Winter,Viscose
+RISLI1297,200673,jackets,WOMAN,Summer,Linen
+STAPO1298,200674,jackets,WOMAN,Autumn,Polyester
+RESCO1299,200675,sweaters,MAN,Spring,Cotton
+V-AWO1300,200676,jackets,MAN,Autumn,Wool Blend
+SAAAC1301,200677,sweaters,WOMAN,Autumn,Acrylic
+CRSPO1302,200678,jackets,WOMAN,Spring,Polyester
+PLAWO1303,200679,jackets,WOMAN,Autumn,Wool
+DOSLI1304,200680,jackets,WOMAN,Spring,Linen
+BEWWO1305,200681,sweaters,MAN,Winter,Wool
+COSLI1306,200682,jackets,MAN,Summer,Linen
+STSLI1307,200683,sweaters,WOMAN,Summer,Linen
+EMSPO1308,200684,jackets,MAN,Spring,Polyester
+BESPO1309,200685,jackets,MAN,Spring,Polyester
+HIWWO1310,200686,shoes,WOMAN,Winter,Wool
+STWWO1311,200687,jackets,MAN,Winter,Wool Blend
+LISCO1312,200688,sweaters,WOMAN,Summer,Cotton
+TESCO1313,200689,jackets,MAN,Summer,Cotton
+EMWWO1314,200690,jackets,MAN,Winter,Wool
+RESCO1315,200691,sweaters,WOMAN,Spring,Cotton
+MOAAC1316,200692,jackets,WOMAN,Autumn,Acrylic
+CRSCO1317,200693,jackets,WOMAN,Summer,Cotton
+KNSLI1318,200694,jackets,WOMAN,Spring,Linen
+RASCO1319,200695,jeans,MAN,Summer,Cotton
+CRAWO1320,200696,t-shirts,WOMAN,Autumn,Wool Blend
+QUSCO1321,200697,sweaters,WOMAN,Summer,Cotton
+ABWWO1322,200698,sweaters,WOMAN,Winter,Wool Blend
+PLSLI1323,200699,jackets,MAN,Spring,Linen
+CAWWO1324,200700,jackets,WOMAN,Winter,Wool
+PLSLI1325,200701,sweaters,WOMAN,Summer,Linen Blend
+UTAPO1326,200702,jackets,MAN,Autumn,Polyester
+DOWPO1327,200703,sweaters,WOMAN,Winter,Polyester
+TEACO1328,200704,sweaters,MAN,Autumn,Cotton
+UTAWO1329,200705,jackets,WOMAN,Autumn,Wool Blend
+DOAPO1330,200706,shoes,WOMAN,Autumn,Polyester
+HESCO1331,200707,jackets,MAN,Summer,Cotton
+CRSLI1332,200708,shoes,WOMAN,Summer,Linen
+KNWWO1333,200709,sweaters,WOMAN,Winter,Wool Blend
+COAWO1334,200710,jackets,MAN,Autumn,Wool
+PRSCO1335,200711,t-shirts,WOMAN,Spring,Cotton
+BEACO1336,200712,sweaters,WOMAN,Autumn,Cotton
+SAWAC1337,200713,jackets,WOMAN,Winter,Acrylic
+LISCO1338,200714,t-shirts,WOMAN,Spring,Cotton
+TAAWO1339,200715,jackets,WOMAN,Autumn,Wool Blend
+SAWDE1340,200716,jackets,WOMAN,Winter,Denim
+QUSPO1341,200717,jackets,WOMAN,Spring,Polyester
+RESLI1342,200718,sweaters,WOMAN,Summer,Linen
+EMAPO1343,200719,jackets,WOMAN,Autumn,Polyester
+OVAPO1344,200720,t-shirts,WOMAN,Autumn,Polyester
+REAWO1345,200721,shoes,WOMAN,Autumn,Wool Blend
+LIAAC1346,200722,jackets,MAN,Autumn,Acrylic
+CRWAC1347,200723,jackets,WOMAN,Winter,Acrylic
+TAAPO1348,200724,jackets,MAN,Autumn,Polyester
+CHSCO1349,200725,jackets,WOMAN,Summer,Cotton
+TEWDE1350,200726,t-shirts,MAN,Winter,Denim
+FAWVI1351,200727,jeans,WOMAN,Winter,Viscose
+EMSLI1352,200728,jackets,MAN,Spring,Linen
+UTWWO1353,200729,jackets,WOMAN,Winter,Wool Blend
+STWWO1354,200730,jackets,WOMAN,Winter,Wool Blend
+COWWO1355,200731,shoes,WOMAN,Winter,Wool Blend
+DOSLI1356,200732,jackets,MAN,Spring,Linen
+RISCO1357,200733,sweaters,WOMAN,Spring,Cotton
+REWAC1358,200734,t-shirts,MAN,Winter,Acrylic
+EMWWO1359,200735,jackets,WOMAN,Winter,Wool Blend
+QUAPO1360,200736,jackets,WOMAN,Autumn,Polyester
+UTAPO1361,200737,jackets,WOMAN,Autumn,Polyester
+EMSLI1362,200738,jackets,MAN,Spring,Linen Blend
+HISLI1363,200739,sweaters,WOMAN,Spring,Linen
+LISLI1364,200740,sweaters,MAN,Summer,Linen
+STWCO1365,200741,jackets,WOMAN,Winter,Cotton
+BESPO1366,200742,jackets,MAN,Spring,Polyester
+CRSPO1367,200743,jackets,WOMAN,Summer,Polyester
+HISCO1368,200744,sweaters,MAN,Spring,Cotton
+KNAAC1369,200745,shoes,WOMAN,Autumn,Acrylic
+OVWWO1370,200746,sweaters,WOMAN,Winter,Wool
+PASLI1371,200747,jeans,WOMAN,Spring,Linen
+DOSLI1372,200748,sweaters,WOMAN,Spring,Linen
+SAAWO1373,200749,sweaters,WOMAN,Autumn,Wool Blend
+ASWWO1374,200750,jackets,WOMAN,Winter,Wool Blend
+BAWWO1375,200751,shoes,MAN,Winter,Wool
+TEWWO1376,200752,shoes,WOMAN,Winter,Wool Blend
+QUAWO1377,200753,jackets,MAN,Autumn,Wool Blend
+REACO1378,200754,jackets,MAN,Autumn,Cotton
+UTWWO1379,200755,t-shirts,WOMAN,Winter,Wool
+LISLI1380,200756,jackets,WOMAN,Summer,Linen
+BEAWO1381,200757,jackets,MAN,Autumn,Wool
+HOSCO1382,200758,shoes,WOMAN,Summer,Cotton
+BEWWO1383,200759,jackets,WOMAN,Winter,Wool
+UTWWO1384,200760,t-shirts,MAN,Winter,Wool Blend
+DOSCO1385,200761,jackets,WOMAN,Spring,Cotton
+REACO1386,200762,sweaters,WOMAN,Autumn,Cotton
+CRWWO1387,200763,jackets,WOMAN,Winter,Wool Blend
+FASCO1388,200764,jackets,MAN,Spring,Cotton
+COAPO1389,200765,jackets,MAN,Autumn,Polyester
+FAAWO1390,200766,t-shirts,MAN,Autumn,Wool Blend
+EMAWO1391,200767,sweaters,WOMAN,Autumn,Wool
+TEWWO1392,200768,jackets,WOMAN,Winter,Wool Blend
+SASLI1393,200769,t-shirts,MAN,Spring,Linen
+RESCO1394,200770,sweaters,WOMAN,Spring,Cotton
+RESPO1395,200771,jackets,WOMAN,Summer,Polyester
+PLAWO1396,200772,t-shirts,MAN,Autumn,Wool
+STWVI1397,200773,jackets,MAN,Winter,Viscose
+RESCO1398,200774,jackets,MAN,Summer,Cotton
+OVWPO1399,200775,jackets,WOMAN,Winter,Polyester
+ALAWO1400,200776,jackets,MAN,Autumn,Wool Blend
+STSVI1401,200777,jackets,WOMAN,Spring,Viscose
+REAWO1402,200778,jackets,WOMAN,Autumn,Wool Blend
+FAWAC1403,200779,sweaters,MAN,Winter,Acrylic
+STSWO1404,200780,jackets,MAN,Spring,Wool Blend
+TESLI1405,200781,sweaters,WOMAN,Summer,Linen
+BEWWO1406,200782,jackets,WOMAN,Winter,Wool
+DOAWO1407,200783,jackets,MAN,Autumn,Wool
+HISCO1408,200784,shoes,MAN,Summer,Cotton
+CRSLI1409,200785,jackets,MAN,Summer,Linen Blend
+UTAPO1410,200786,shoes,WOMAN,Autumn,Polyester
+STWWO1411,200787,jackets,MAN,Winter,Wool
+SUSLI1412,200788,jackets,MAN,Spring,Linen
+BEWPO1413,200789,jeans,WOMAN,Winter,Polyester
+STSLI1414,200790,t-shirts,WOMAN,Spring,Linen
+TASCO1415,200791,shoes,MAN,Summer,Cotton
+BEACO1416,200792,jackets,WOMAN,Autumn,Cotton
+REAPO1417,200793,jackets,WOMAN,Autumn,Polyester
+OVWCO1418,200794,jackets,MAN,Winter,Cotton
+SLSVI1419,200795,sweaters,MAN,Spring,Viscose
+LIWWO1420,200796,sweaters,WOMAN,Winter,Wool
+DOAPO1421,200797,jackets,MAN,Autumn,Polyester
+ASWPO1422,200798,t-shirts,WOMAN,Winter,Polyester
+UTAWO1423,200799,jackets,MAN,Autumn,Wool Blend
+CRAPO1424,200800,shoes,WOMAN,Autumn,Polyester
+TEACO1425,200801,shoes,WOMAN,Autumn,Cotton
+PLSLI1426,200802,t-shirts,MAN,Spring,Linen
+KNWAC1427,200803,jackets,MAN,Winter,Acrylic
+EMSLI1428,200804,t-shirts,MAN,Summer,Linen Blend
+RISLI1429,200805,jackets,WOMAN,Summer,Linen
+BOAWO1430,200806,jackets,WOMAN,Autumn,Wool Blend
+PLSCO1431,200807,jackets,WOMAN,Summer,Cotton
+QUWWO1432,200808,jackets,WOMAN,Winter,Wool
+MUAAC1433,200809,shoes,WOMAN,Autumn,Acrylic
+TASDE1434,200810,shoes,WOMAN,Spring,Denim
+OVSCO1435,200811,jackets,WOMAN,Spring,Cotton
+TESCO1436,200812,t-shirts,WOMAN,Spring,Cotton
+STSCO1437,200813,shoes,MAN,Summer,Cotton
+SASLI1438,200814,jackets,WOMAN,Spring,Linen
+QUWWO1439,200815,sweaters,MAN,Winter,Wool
+SLAWO1440,200816,jackets,WOMAN,Autumn,Wool Blend
+TESLI1441,200817,jackets,MAN,Spring,Linen
+TESLI1442,200818,shoes,MAN,Spring,Linen
+UTSCO1443,200819,jackets,WOMAN,Spring,Cotton
+SAAWO1444,200820,t-shirts,WOMAN,Autumn,Wool
+OVWWO1445,200821,jackets,WOMAN,Winter,Wool
+REWWO1446,200822,jackets,MAN,Winter,Wool Blend
+LISLI1447,200823,shoes,WOMAN,Summer,Linen
+OVSPO1448,200824,jeans,WOMAN,Summer,Polyester
+TASLI1449,200825,jackets,WOMAN,Spring,Linen Blend
+RESPO1450,200826,jackets,WOMAN,Spring,Polyester
+10WWO1451,200827,shoes,WOMAN,Winter,Wool
+ACAWO1452,200828,jackets,MAN,Autumn,Wool Blend
+SUWVI1453,200829,shoes,MAN,Winter,Viscose
+CRSLI1454,200830,shoes,WOMAN,Summer,Linen Blend
+DOSWO1455,200831,sweaters,MAN,Summer,Wool Blend
+STAPO1456,200832,sweaters,MAN,Autumn,Polyester
+BESLI1457,200833,shoes,WOMAN,Summer,Linen
+KNAWO1458,200834,t-shirts,MAN,Autumn,Wool Blend
+BAWWO1459,200835,sweaters,MAN,Winter,Wool Blend
+ASWWO1460,200836,sweaters,MAN,Winter,Wool Blend
+REAWO1461,200837,jackets,WOMAN,Autumn,Wool Blend
+BEACO1462,200838,jackets,WOMAN,Autumn,Cotton
+FAWWO1463,200839,t-shirts,WOMAN,Winter,Wool Blend
+ABWWO1464,200840,jackets,WOMAN,Winter,Wool Blend
+DOADE1465,200841,jackets,MAN,Autumn,Denim
+SUAWO1466,200842,jackets,WOMAN,Autumn,Wool
+REAWO1467,200843,jackets,MAN,Autumn,Wool
+KNAWO1468,200844,jackets,WOMAN,Autumn,Wool
+HISLI1469,200845,jeans,MAN,Summer,Linen
+PLSCO1470,200846,jackets,MAN,Summer,Cotton
+TAADE1471,200847,t-shirts,MAN,Autumn,Denim
+STSPO1472,200848,sweaters,WOMAN,Summer,Polyester
+STSLI1473,200849,t-shirts,WOMAN,Summer,Linen
+STAWO1474,200850,t-shirts,WOMAN,Autumn,Wool
+QUSLI1475,200851,jackets,WOMAN,Spring,Linen
+FASPO1476,200852,sweaters,WOMAN,Spring,Polyester
+CRSLI1477,200853,sweaters,MAN,Spring,Linen
+EMAWO1478,200854,jackets,MAN,Autumn,Wool Blend
+HEWPO1479,200855,jackets,WOMAN,Winter,Polyester
+BEWWO1480,200856,jackets,WOMAN,Winter,Wool
+POSLI1481,200857,shoes,WOMAN,Summer,Linen
+REWWO1482,200858,t-shirts,WOMAN,Winter,Wool
+GAWWO1483,200859,jackets,MAN,Winter,Wool
+SLWPO1484,200860,sweaters,WOMAN,Winter,Polyester
+RISCO1485,200861,jackets,WOMAN,Spring,Cotton
+BASCO1486,200862,t-shirts,WOMAN,Summer,Cotton
+REAWO1487,200863,jackets,MAN,Autumn,Wool Blend
+LISCO1488,200864,jackets,WOMAN,Summer,Cotton
+REACO1489,200865,jackets,WOMAN,Autumn,Cotton
+UTSPO1490,200866,jackets,WOMAN,Summer,Polyester
+BEACO1491,200867,jackets,WOMAN,Autumn,Cotton
+RESLI1492,200868,jackets,MAN,Summer,Linen
+KNWWO1493,200869,jackets,MAN,Winter,Wool
+EMADE1494,200870,sweaters,WOMAN,Autumn,Denim
+QUAPO1495,200871,jackets,WOMAN,Autumn,Polyester
+STWWO1496,200872,shoes,WOMAN,Winter,Wool
+TEWWO1497,200873,jackets,WOMAN,Winter,Wool
+KNAWO1498,200874,jackets,WOMAN,Autumn,Wool Blend
+HIAAC1499,200875,jeans,MAN,Autumn,Acrylic
+HIWWO1500,200876,jackets,WOMAN,Winter,Wool Blend
+QUAWO1501,200877,jackets,WOMAN,Autumn,Wool Blend
+STAWO1502,200878,t-shirts,MAN,Autumn,Wool
+CRSLI1503,200879,sweaters,WOMAN,Summer,Linen
+HISCO1504,200880,jackets,WOMAN,Spring,Cotton
+TEWWO1505,200881,jackets,WOMAN,Winter,Wool
+BEAWO1506,200882,jackets,WOMAN,Autumn,Wool
+OVWPO1507,200883,t-shirts,WOMAN,Winter,Polyester
+QUWWO1508,200884,jackets,WOMAN,Winter,Wool
+HIAWO1509,200885,t-shirts,WOMAN,Autumn,Wool
+PLAWO1510,200886,jackets,WOMAN,Autumn,Wool
+STWWO1511,200887,jackets,MAN,Winter,Wool
+DOSDE1512,200888,shoes,WOMAN,Spring,Denim
+SAWDE1513,200889,jackets,WOMAN,Winter,Denim
+RESLI1514,200890,jackets,MAN,Summer,Linen
+DOWWO1515,200891,sweaters,WOMAN,Winter,Wool Blend
+DOSLI1516,200892,shoes,MAN,Spring,Linen
+RISLI1517,200893,jackets,WOMAN,Summer,Linen Blend
+STSLI1518,200894,jackets,WOMAN,Spring,Linen
+CRSCO1519,200895,t-shirts,WOMAN,Spring,Cotton
+STAPO1520,200896,shoes,MAN,Autumn,Polyester
+RESLI1521,200897,jackets,WOMAN,Spring,Linen Blend
+QUAVI1522,200898,jackets,WOMAN,Autumn,Viscose
+LISCO1523,200899,jackets,WOMAN,Summer,Cotton
+UTAWO1524,200900,t-shirts,WOMAN,Autumn,Wool
+STSLI1525,200901,sweaters,WOMAN,Spring,Linen
+SLSCO1526,200902,jackets,WOMAN,Spring,Cotton
+CRAAC1527,200903,shoes,WOMAN,Autumn,Acrylic
+EMACO1528,200904,jackets,WOMAN,Autumn,Cotton
+RESWO1529,200905,shoes,WOMAN,Spring,Wool Blend
+REAAC1530,200906,jackets,MAN,Autumn,Acrylic
+TEADE1531,200907,t-shirts,MAN,Autumn,Denim
+EMWCO1532,200908,jackets,WOMAN,Winter,Cotton
+STAWO1533,200909,jackets,MAN,Autumn,Wool Blend
+DOWWO1534,200910,sweaters,MAN,Winter,Wool Blend
+BESLI1535,200911,jackets,MAN,Summer,Linen
+RISLI1536,200912,jackets,WOMAN,Spring,Linen
+EMADE1537,200913,sweaters,WOMAN,Autumn,Denim
+STSLI1538,200914,jackets,MAN,Spring,Linen
+KNWWO1539,200915,jackets,WOMAN,Winter,Wool
+EMWAC1540,200916,jackets,MAN,Winter,Acrylic
+BAAWO1541,200917,jackets,MAN,Autumn,Wool Blend
+PAWPO1542,200918,shoes,MAN,Winter,Polyester
+UTAWO1543,200919,jackets,MAN,Autumn,Wool
+BEAWO1544,200920,jeans,MAN,Autumn,Wool Blend
+HOAWO1545,200921,jackets,WOMAN,Autumn,Wool
+SAASA1546,200922,jackets,WOMAN,Autumn,Satin
+RESPO1547,200923,sweaters,WOMAN,Spring,Polyester
+BEADE1548,200924,t-shirts,WOMAN,Autumn,Denim
+CRAWO1549,200925,jackets,WOMAN,Autumn,Wool
+LISCO1550,200926,jackets,MAN,Spring,Cotton
+EMSPO1551,200927,sweaters,WOMAN,Spring,Polyester
+TAAPO1552,200928,jackets,WOMAN,Autumn,Polyester
+STAVI1553,200929,jackets,WOMAN,Autumn,Viscose
+TEAPO1554,200930,jackets,WOMAN,Autumn,Polyester
+BASCO1555,200931,jackets,MAN,Spring,Cotton
+EMAWO1556,200932,jackets,MAN,Autumn,Wool
+TEWWO1557,200933,sweaters,WOMAN,Winter,Wool Blend
+READE1558,200934,jackets,MAN,Autumn,Denim
+TASLI1559,200935,jackets,WOMAN,Spring,Linen Blend
+CRSVI1560,200936,jackets,WOMAN,Spring,Viscose
+TESCO1561,200937,jackets,WOMAN,Summer,Cotton
+TESLI1562,200938,jackets,MAN,Summer,Linen
+PLSCO1563,200939,jeans,WOMAN,Summer,Cotton
+STSLI1564,200940,jackets,WOMAN,Spring,Linen
+CRSCO1565,200941,t-shirts,WOMAN,Summer,Cotton
+HIWWO1566,200942,sweaters,WOMAN,Winter,Wool Blend
+DOSLI1567,200943,jackets,MAN,Summer,Linen
+WOWWO1568,200944,jackets,WOMAN,Winter,Wool Blend
+SAWSI1569,200945,t-shirts,MAN,Winter,Silk
+LISLI1570,200946,jackets,WOMAN,Summer,Linen
+DOAWO1571,200947,jackets,WOMAN,Autumn,Wool
+OVWWO1572,200948,jackets,WOMAN,Winter,Wool
+OVSCO1573,200949,t-shirts,WOMAN,Spring,Cotton
+WOAWO1574,200950,t-shirts,MAN,Autumn,Wool Blend
+DOWAC1575,200951,jackets,MAN,Winter,Acrylic
+LISLI1576,200952,sweaters,WOMAN,Summer,Linen
+HIWPO1577,200953,sweaters,MAN,Winter,Polyester
+HISLI1578,200954,jackets,WOMAN,Summer,Linen Blend
+BEAVI1579,200955,sweaters,MAN,Autumn,Viscose
+SASLI1580,200956,jackets,WOMAN,Summer,Linen
+FAAPO1581,200957,jackets,WOMAN,Autumn,Polyester
+PLAVI1582,200958,jackets,WOMAN,Autumn,Viscose
+RISCO1583,200959,jackets,WOMAN,Spring,Cotton
+SAWWO1584,200960,sweaters,MAN,Winter,Wool Blend
+RESLI1585,200961,shoes,MAN,Summer,Linen
+TASLI1586,200962,shoes,WOMAN,Spring,Linen Blend
+TEWCO1587,200963,jackets,MAN,Winter,Cotton
+HOWWO1588,200964,jackets,WOMAN,Winter,Wool Blend
+CRACO1589,200965,sweaters,WOMAN,Autumn,Cotton
+LISLI1590,200966,jackets,WOMAN,Summer,Linen
+MOSCO1591,200967,jackets,WOMAN,Summer,Cotton
+STSLI1592,200968,shoes,MAN,Summer,Linen Blend
+QUAWO1593,200969,shoes,WOMAN,Autumn,Wool Blend
+EMSPO1594,200970,sweaters,MAN,Spring,Polyester
+STADE1595,200971,jackets,WOMAN,Autumn,Denim
+SLWWO1596,200972,jackets,MAN,Winter,Wool
+SASLI1597,200973,t-shirts,WOMAN,Summer,Linen
+TESCO1598,200974,jackets,MAN,Spring,Cotton
+PLAPO1599,200975,jackets,WOMAN,Autumn,Polyester
