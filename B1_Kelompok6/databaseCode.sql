@@ -114,12 +114,11 @@ ORDER BY total_price DESC;
 
 -- 5.Melihat semua varian dari terbanyak ke tersedikit
 SELECT
-  varian_name,
-  COUNT(*) AS total_varian
-FROM used_car_price.used_car_list
-JOIN used_car_price.variants
-USING (varian_id)
-GROUP BY varian_name
+  V.varian_name,
+  COUNT(C.car_list_id) AS total_varian
+FROM used_car_list AS C
+JOIN variants AS V ON C.varian_id = V.varian_id
+GROUP BY V.varian_name
 ORDER BY total_varian DESC;
 
 -- 6.Menampilkan 5 Varian dengan Kondisi Terbaik (Mileage Terendah)
@@ -149,21 +148,21 @@ ORDER BY
 
 -- 8.Tampilkan Model Mobil dengan Rasio Kualitas per Harga (Review/Price) tertinggi.
 SELECT
-    M.MODEL_NAME,
-    ROUND(AVG(R.REVIEW) / AVG(C.PRICE), 7) AS Rasio_Kualitas_per_Harga
+    C.car_list_id,
+    M.model_name,
+    C.price AS Harga,
+    C.mileage AS Jarak_Tempuh
 FROM
-    CAR_LISTINGS AS C
+    used_car_list AS C
 JOIN
-    REVIEWS AS R ON C.REVIEW_ID = R.REVIEW_ID
+    variants AS V ON C.varian_id = V.varian_id
 JOIN
-    VARIAN_TB AS V ON C.VARIAN_ID = V.VARIAN_ID
-JOIN
-    MODELS_TB AS M ON V.MODEL_ID = M.MODEL_ID
-GROUP BY
-    M.MODEL_NAME
+    models AS M ON V.model_id = M.model_id
+WHERE
+    C.mileage > 90000
 ORDER BY
-    Rasio_Kualitas_per_Harga DESC
-LIMIT 5;
+    C.mileage DESC
+LIMIT 10;
 
 -- 9.Menemukan Model dengan 'Value for Money' Terbaik (Harga per KM)
 SELECT
